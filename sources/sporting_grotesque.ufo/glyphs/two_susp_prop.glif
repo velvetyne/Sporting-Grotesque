@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.susp_prop" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="480" y="282" type="curve"/>
+      <point x="480" y="344"/>
+      <point x="429" y="400"/>
+      <point x="329" y="400" type="curve"/>
+      <point x="169" y="400"/>
+      <point x="97" y="292"/>
+      <point x="97" y="292" type="curve"/>
+      <point x="130" y="233" type="line"/>
+      <point x="130" y="233"/>
+      <point x="197" y="333"/>
+      <point x="313" y="333" type="curve"/>
+      <point x="374" y="333"/>
+      <point x="401" y="306"/>
+      <point x="401" y="266" type="curve"/>
+      <point x="401" y="145"/>
+      <point x="60" y="66"/>
+      <point x="60" y="66" type="curve"/>
+      <point x="60" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="66" type="line"/>
+      <point x="194" y="66" type="line"/>
+      <point x="194" y="66"/>
+      <point x="480" y="120"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="1">
+  <advance width="833"/>
+  <outline>
+    <contour>
+      <point x="416" y="424" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="528" y="576" type="line"/>
+      <point x="307" y="487" type="line"/>
+      <point x="319" y="459" type="line"/>
+      <point x="550" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>
