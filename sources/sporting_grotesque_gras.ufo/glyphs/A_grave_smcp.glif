@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave.smcp" format="1">
+  <advance width="948"/>
+  <outline>
+    <contour>
+      <point x="579" y="693" type="line"/>
+      <point x="367" y="693" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="308" y="205" type="line"/>
+      <point x="637" y="205" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="899" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="341" type="line"/>
+      <point x="366" y="341" type="line"/>
+      <point x="457" y="555" type="line"/>
+      <point x="490" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="897" type="line"/>
+      <point x="596" y="721" type="line"/>
+      <point x="627" y="753" type="line"/>
+      <point x="413" y="992" type="line"/>
+    </contour>
+  </outline>
+</glyph>

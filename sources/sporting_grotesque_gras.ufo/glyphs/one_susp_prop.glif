@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.susp_prop" format="1">
+  <advance width="754"/>
+  <outline>
+    <contour>
+      <point x="44" y="144" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="713" y="144" type="line"/>
+      <point x="461" y="144" type="line"/>
+      <point x="461" y="578" type="line"/>
+      <point x="131" y="472" type="line"/>
+      <point x="131" y="388" type="line"/>
+      <point x="299" y="388" type="line"/>
+      <point x="299" y="144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.susp_prop" format="1">
+  <advance width="827"/>
+  <outline>
+    <contour>
+      <point x="12" y="15" type="line"/>
+      <point x="533" y="15" type="line"/>
+      <point x="533" y="-223" type="line"/>
+      <point x="656" y="-223" type="line"/>
+      <point x="656" y="15" type="line"/>
+      <point x="798" y="15" type="line"/>
+      <point x="798" y="111" type="line"/>
+      <point x="656" y="111" type="line"/>
+      <point x="649" y="554" type="line"/>
+      <point x="491" y="554" type="line"/>
+      <point x="12" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="458" type="line"/>
+      <point x="533" y="111" type="line"/>
+      <point x="182" y="111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

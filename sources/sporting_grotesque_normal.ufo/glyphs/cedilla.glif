@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="1204"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="601" y="-29" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="546" y="-223" type="line"/>
+      <point x="747" y="-78" type="line"/>
+      <point x="721" y="-32" type="line"/>
+      <point x="493" y="-134" type="line"/>
+    </contour>
+  </outline>
+</glyph>

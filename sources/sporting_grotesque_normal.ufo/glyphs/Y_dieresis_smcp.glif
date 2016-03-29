@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis.smcp" format="1">
+  <advance width="779"/>
+  <outline>
+    <contour>
+      <point x="775" y="692" type="line"/>
+      <point x="630" y="692" type="line"/>
+      <point x="390" y="373" type="line"/>
+      <point x="149" y="692" type="line"/>
+      <point x="4" y="692" type="line"/>
+      <point x="329" y="295" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="940" type="line"/>
+      <point x="225" y="834" type="line"/>
+      <point x="341" y="834" type="line"/>
+      <point x="341" y="940" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="940" type="line"/>
+      <point x="438" y="834" type="line"/>
+      <point x="554" y="834" type="line"/>
+      <point x="554" y="940" type="line"/>
+    </contour>
+  </outline>
+</glyph>

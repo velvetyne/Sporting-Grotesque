@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="770"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <contour>
+      <point x="221" y="555" type="line"/>
+      <point x="101" y="555" type="line"/>
+      <point x="101" y="188" type="line"/>
+      <point x="101" y="55"/>
+      <point x="197" y="-14"/>
+      <point x="324" y="-14" type="curve"/>
+      <point x="465" y="-14"/>
+      <point x="530" y="103"/>
+      <point x="561" y="166" type="curve"/>
+      <point x="611" y="0" type="line"/>
+      <point x="669" y="0" type="line"/>
+      <point x="669" y="555" type="line"/>
+      <point x="549" y="555" type="line"/>
+      <point x="549" y="225" type="line"/>
+      <point x="549" y="175"/>
+      <point x="486" y="81"/>
+      <point x="345" y="81" type="curve"/>
+      <point x="280" y="81"/>
+      <point x="221" y="121"/>
+      <point x="221" y="207" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="766" type="line"/>
+      <point x="220" y="660" type="line"/>
+      <point x="336" y="660" type="line"/>
+      <point x="336" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="766" type="line"/>
+      <point x="433" y="660" type="line"/>
+      <point x="549" y="660" type="line"/>
+      <point x="549" y="766" type="line"/>
+    </contour>
+  </outline>
+</glyph>

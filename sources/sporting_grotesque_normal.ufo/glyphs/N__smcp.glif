@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.smcp" format="1">
+  <advance width="874"/>
+  <outline>
+    <contour>
+      <point x="436" y="867" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="789" y="692" type="line"/>
+      <point x="668" y="692" type="line"/>
+      <point x="668" y="91" type="line"/>
+      <point x="207" y="692" type="line"/>
+      <point x="85" y="692" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="202" y="523" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="789" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

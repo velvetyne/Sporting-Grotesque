@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.smcp" format="1">
+  <advance width="839"/>
+  <outline>
+    <contour>
+      <point x="793" y="693" type="line"/>
+      <point x="47" y="693" type="line"/>
+      <point x="47" y="555" type="line"/>
+      <point x="339" y="555" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="555" type="line"/>
+      <point x="793" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

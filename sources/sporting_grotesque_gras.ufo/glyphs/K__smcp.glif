@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.smcp" format="1">
+  <advance width="842"/>
+  <outline>
+    <contour>
+      <point x="549" y="693" type="line"/>
+      <point x="247" y="390" type="line"/>
+      <point x="247" y="693" type="line"/>
+      <point x="83" y="693" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="213" type="line"/>
+      <point x="271" y="238"/>
+      <point x="294" y="258"/>
+      <point x="319" y="282" type="curve"/>
+      <point x="580" y="0" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="429" y="378" type="line"/>
+      <point x="745" y="693" type="line"/>
+    </contour>
+  </outline>
+</glyph>

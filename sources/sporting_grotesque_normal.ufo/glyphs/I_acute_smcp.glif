@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute.smcp" format="1">
+  <advance width="293"/>
+  <outline>
+    <contour>
+      <point x="85" y="692" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="962" type="line"/>
+      <point x="-16" y="847" type="line"/>
+      <point x="0" y="794" type="line"/>
+      <point x="313" y="852" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.susp_prop" format="1">
+  <advance width="815"/>
+  <outline>
+    <contour>
+      <point x="733" y="554" type="line"/>
+      <point x="24" y="554" type="line"/>
+      <point x="24" y="410" type="line"/>
+      <point x="545" y="410" type="line"/>
+      <point x="545" y="410"/>
+      <point x="175" y="213"/>
+      <point x="82" y="-223" type="curve"/>
+      <point x="271" y="-223" type="line"/>
+      <point x="363" y="181"/>
+      <point x="733" y="438"/>
+      <point x="733" y="438" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

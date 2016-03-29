@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="five.susp_prop" format="1">
-  <advance width="593"/>
-  <outline>
-    <component base="five" yOffset="-154"/>
-  </outline>
-</glyph>

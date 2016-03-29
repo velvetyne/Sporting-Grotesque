@@ -2,8 +2,6 @@
 
 A grotesque typeface by [Lucas Le Bihan](http://lucaslebihan.fr/)
 
-![Maillot](documentation/Score.jpg)
-
 ![Specimen](documentation/specimen.png)
 
 ## Présentation
