@@ -5,7 +5,7 @@
 	<key>A</key>
 	<dict>
 		<key>T</key>
-		<integer>-72</integer>
+		<integer>-100</integer>
 		<key>V</key>
 		<integer>-72</integer>
 		<key>W</key>
@@ -28,8 +28,6 @@
 		<integer>-145</integer>
 		<key>c</key>
 		<integer>-145</integer>
-		<key>d</key>
-		<integer>-145</integer>
 		<key>e</key>
 		<integer>-145</integer>
 		<key>g</key>
@@ -39,8 +37,6 @@
 		<key>m</key>
 		<integer>-145</integer>
 		<key>n</key>
-		<integer>-145</integer>
-		<key>o</key>
 		<integer>-145</integer>
 		<key>p</key>
 		<integer>-145</integer>
@@ -71,8 +67,6 @@
 		<integer>-72</integer>
 		<key>c</key>
 		<integer>-72</integer>
-		<key>d</key>
-		<integer>-72</integer>
 		<key>e</key>
 		<integer>-72</integer>
 		<key>g</key>
@@ -82,8 +76,6 @@
 		<key>m</key>
 		<integer>-72</integer>
 		<key>n</key>
-		<integer>-72</integer>
-		<key>o</key>
 		<integer>-72</integer>
 		<key>p</key>
 		<integer>-72</integer>
@@ -110,8 +102,6 @@
 		<integer>-72</integer>
 		<key>c</key>
 		<integer>-72</integer>
-		<key>d</key>
-		<integer>-72</integer>
 		<key>e</key>
 		<integer>-72</integer>
 		<key>g</key>
@@ -121,8 +111,6 @@
 		<key>m</key>
 		<integer>-72</integer>
 		<key>n</key>
-		<integer>-72</integer>
-		<key>o</key>
 		<integer>-72</integer>
 		<key>q</key>
 		<integer>-72</integer>
@@ -143,8 +131,6 @@
 		<integer>-145</integer>
 		<key>c</key>
 		<integer>-72</integer>
-		<key>d</key>
-		<integer>-72</integer>
 		<key>e</key>
 		<integer>-145</integer>
 		<key>g</key>
@@ -157,8 +143,6 @@
 		<integer>-72</integer>
 		<key>n</key>
 		<integer>-72</integer>
-		<key>o</key>
-		<integer>-145</integer>
 		<key>p</key>
 		<integer>-72</integer>
 		<key>q</key>
@@ -188,13 +172,9 @@
 		<integer>-29</integer>
 		<key>c</key>
 		<integer>-29</integer>
-		<key>d</key>
-		<integer>-29</integer>
 		<key>e</key>
 		<integer>-29</integer>
 		<key>g</key>
-		<integer>-29</integer>
-		<key>o</key>
 		<integer>-29</integer>
 		<key>q</key>
 		<integer>-29</integer>

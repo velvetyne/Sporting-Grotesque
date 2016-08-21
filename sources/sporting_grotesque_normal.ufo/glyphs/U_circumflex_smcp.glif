@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex.smcp" format="1">
-  <advance width="870"/>
+  <advance width="718"/>
   <outline>
-    <contour>
-      <point x="85" y="692" type="line"/>
-      <point x="85" y="286" type="line"/>
-      <point x="85" y="74"/>
-      <point x="160" y="-13"/>
-      <point x="435" y="-13" type="curve" smooth="yes"/>
-      <point x="710" y="-13"/>
-      <point x="783" y="74"/>
-      <point x="783" y="286" type="curve"/>
-      <point x="783" y="692" type="line"/>
-      <point x="662" y="692" type="line"/>
-      <point x="662" y="286" type="line"/>
-      <point x="662" y="126"/>
-      <point x="616" y="81"/>
-      <point x="435" y="81" type="curve" smooth="yes"/>
-      <point x="253" y="81"/>
-      <point x="208" y="126"/>
-      <point x="208" y="286" type="curve"/>
-      <point x="208" y="692" type="line"/>
-    </contour>
-    <contour>
-      <point x="428" y="962" type="line"/>
-      <point x="233" y="844" type="line"/>
-      <point x="250" y="794" type="line"/>
-      <point x="428" y="854" type="line"/>
-      <point x="606" y="794" type="line"/>
-      <point x="623" y="844" type="line"/>
-    </contour>
+    <component base="U.smcp"/>
+    <component base="circumflex" xOffset="-240" yOffset="12"/>
   </outline>
 </glyph>

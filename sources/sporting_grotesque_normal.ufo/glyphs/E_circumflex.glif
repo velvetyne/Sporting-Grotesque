@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="1">
-  <advance width="848"/>
+  <advance width="745"/>
   <unicode hex="00CA"/>
   <outline>
-    <contour>
-      <point x="101" y="0" type="line"/>
-      <point x="776" y="0" type="line"/>
-      <point x="776" y="95" type="line"/>
-      <point x="228" y="95" type="line"/>
-      <point x="228" y="338" type="line"/>
-      <point x="689" y="338" type="line"/>
-      <point x="689" y="434" type="line"/>
-      <point x="228" y="434" type="line"/>
-      <point x="228" y="682" type="line"/>
-      <point x="747" y="682" type="line"/>
-      <point x="747" y="777" type="line"/>
-      <point x="101" y="777" type="line"/>
-    </contour>
-    <contour>
-      <point x="431" y="1011" type="line"/>
-      <point x="226" y="913" type="line"/>
-      <point x="253" y="843" type="line"/>
-      <point x="431" y="913" type="line"/>
-      <point x="609" y="843" type="line"/>
-      <point x="636" y="913" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="circumflex.case" xOffset="-174" yOffset="222"/>
   </outline>
 </glyph>

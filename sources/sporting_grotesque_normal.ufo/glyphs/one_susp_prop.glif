@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.susp_prop" format="1">
-  <advance width="785"/>
+  <advance width="570"/>
   <outline>
     <contour>
-      <point x="58" y="95" type="line"/>
-      <point x="58" y="0" type="line"/>
-      <point x="727" y="0" type="line"/>
-      <point x="727" y="95" type="line"/>
-      <point x="448" y="95" type="line"/>
-      <point x="448" y="578" type="line"/>
-      <point x="145" y="454" type="line"/>
-      <point x="145" y="363" type="line"/>
-      <point x="338" y="438" type="line"/>
-      <point x="338" y="95" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="555" type="line"/>
+      <point x="360" y="555" type="line"/>
+      <point x="360" y="403"/>
+      <point x="259" y="357"/>
+      <point x="60" y="357" type="curve"/>
+      <point x="60" y="268" type="line"/>
+      <point x="308" y="268"/>
+      <point x="359" y="320"/>
+      <point x="359" y="470" type="curve"/>
+      <point x="360" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

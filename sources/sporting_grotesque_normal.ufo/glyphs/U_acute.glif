@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="1">
-  <advance width="977"/>
+  <advance width="916"/>
   <unicode hex="00DA"/>
   <outline>
-    <contour>
-      <point x="101" y="777" type="line"/>
-      <point x="101" y="321" type="line" smooth="yes"/>
-      <point x="101" y="97"/>
-      <point x="194" y="-14"/>
-      <point x="488" y="-14" type="curve" smooth="yes"/>
-      <point x="783" y="-14"/>
-      <point x="876" y="97"/>
-      <point x="876" y="321" type="curve" smooth="yes"/>
-      <point x="876" y="777" type="line"/>
-      <point x="749" y="777" type="line"/>
-      <point x="749" y="321" type="line" smooth="yes"/>
-      <point x="749" y="149"/>
-      <point x="685" y="81"/>
-      <point x="488" y="81" type="curve" smooth="yes"/>
-      <point x="290" y="81"/>
-      <point x="228" y="149"/>
-      <point x="228" y="321" type="curve" smooth="yes"/>
-      <point x="228" y="777" type="line"/>
-    </contour>
-    <contour>
-      <point x="627" y="1000" type="line"/>
-      <point x="319" y="913" type="line"/>
-      <point x="333" y="843" type="line"/>
-      <point x="650" y="881" type="line"/>
-    </contour>
+    <component base="U"/>
+    <component base="acute.case" xOffset="-124" yOffset="222"/>
   </outline>
 </glyph>

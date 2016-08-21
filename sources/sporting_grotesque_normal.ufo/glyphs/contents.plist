@@ -52,8 +52,6 @@
 	<string>C_cedilla.glif</string>
 	<key>Ccedilla.smcp</key>
 	<string>C_cedilla_smcp.glif</string>
-	<key>Ccedilla.smcp.001</key>
-	<string>C_cedilla_smcp_001.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D.smcp</key>
@@ -306,6 +304,8 @@
 	<string>d.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
+	<key>daggerdbl</key>
+	<string>daggerdbl.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>dieresis</key>
@@ -330,6 +330,8 @@
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight.alt</key>
+	<string>eight_alt.glif</string>
 	<key>eight.susp_prop</key>
 	<string>eight_susp_prop.glif</string>
 	<key>ellipsis</key>
@@ -346,14 +348,26 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f_f</key>
+	<string>f_f.glif</string>
+	<key>f_i</key>
+	<string>f_i.glif</string>
+	<key>f_l</key>
+	<string>f_l.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five.alt</key>
+	<string>five_alt.glif</string>
 	<key>five.susp_prop</key>
 	<string>five_susp_prop.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.alt</key>
+	<string>four_alt.glif</string>
 	<key>four.susp_prop</key>
 	<string>four_susp_prop.glif</string>
+	<key>fraction</key>
+	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>germandbls</key>
@@ -404,6 +418,8 @@
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine.alt</key>
+	<string>nine_alt.glif</string>
 	<key>nine.susp_prop</key>
 	<string>nine_susp_prop.glif</string>
 	<key>ntilde</key>
@@ -424,8 +440,14 @@
 	<string>ograve.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.alt</key>
+	<string>one_alt.glif</string>
 	<key>one.susp_prop</key>
 	<string>one_susp_prop.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>p</key>
@@ -442,8 +464,12 @@
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
+	<key>perthousand</key>
+	<string>perthousand.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
+	<key>plusminus</key>
+	<string>plusminus.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>question</key>
@@ -482,10 +508,14 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.alt</key>
+	<string>seven_alt.glif</string>
 	<key>seven.susp_prop</key>
 	<string>seven_susp_prop.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six.alt</key>
+	<string>six_alt.glif</string>
 	<key>six.susp_prop</key>
 	<string>six_susp_prop.glif</string>
 	<key>slash</key>
@@ -498,14 +528,20 @@
 	<string>t.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.alt</key>
+	<string>three_alt.glif</string>
 	<key>three.susp_prop</key>
 	<string>three_susp_prop.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.case</key>
 	<string>tilde_case.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.alt</key>
+	<string>two_alt.glif</string>
 	<key>two.susp_prop</key>
 	<string>two_susp_prop.glif</string>
 	<key>u</key>
@@ -520,30 +556,6 @@
 	<string>ugrave.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni21E8</key>
-	<string>uni21E_8.glif</string>
-	<key>uni21E9</key>
-	<string>uni21E_9.glif</string>
-	<key>uni2460</key>
-	<string>uni2460.glif</string>
-	<key>uni2461</key>
-	<string>uni2461.glif</string>
-	<key>uni2462</key>
-	<string>uni2462.glif</string>
-	<key>uni2463</key>
-	<string>uni2463.glif</string>
-	<key>uni2464</key>
-	<string>uni2464.glif</string>
-	<key>uni2465</key>
-	<string>uni2465.glif</string>
-	<key>uni2466</key>
-	<string>uni2466.glif</string>
-	<key>uni2467</key>
-	<string>uni2467.glif</string>
-	<key>uni2468</key>
-	<string>uni2468.glif</string>
-	<key>uni2469</key>
-	<string>uni2469.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
@@ -556,10 +568,14 @@
 	<string>yacute.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
+	<key>yen</key>
+	<string>yen.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero.alt</key>
+	<string>zero_alt.glif</string>
 	<key>zero.susp_prop</key>
 	<string>zero_susp_prop.glif</string>
 </dict>

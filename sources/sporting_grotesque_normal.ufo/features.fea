@@ -25,6 +25,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature liga {
+  sub f i by f_i ;
+  sub f l by f_l ;
+  sub f f by f_f ; 
+} liga;
 feature titl {
   sub O by O.alt ;
  	sub Q by Q.alt ;
@@ -44,29 +75,81 @@ feature lnum { # chiffres alignés
 feature onum { # chiffres elzéviriens
     sub @fig.align_prop by @fig.susp_prop ;
 } onum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+feature kern {
+   pos A T -100;
+   pos A W -60;
+   pos W A -60;  
+   pos A V -140;
+   pos A C -50;
+   pos O T -50;
+   pos O Y -41;
+   pos O V -60;
+   pos P A -70;
+   pos D W -50;
+   pos T c -100;
+   pos T e -100;
+   pos T g -100;
+   pos T m -100;
+   pos T n -100;
+   pos T o -100;
+   pos T r -100;
+   pos T s -100;
+   pos T u -100;
+   pos T v -100;
+   pos T w -100;
+   pos T x -100;
+   pos T y -100;
+   pos T z -100;
+   pos T A -60;
+   pos T O -60;
+   pos T a -100;
+   pos V a -60;  
+   pos V c -60;
+   pos V e -60;
+   pos V g -60;
+   pos V m -60;
+   pos V n -60;
+   pos V o -60;
+   pos V r -60;
+   pos V s -60;
+   pos V u -60;
+   pos V z -60;
+   pos V O -60;  
+   pos W a -60;  
+   pos W c -60;
+   pos W e -60;
+   pos W g -60;
+   pos W m -60;
+   pos W n -60;
+   pos W o -60;
+   pos W r -60;
+   pos W s -60;
+   pos W u -60;
+   pos W z -60;
+   pos W O -60;
+   pos S Y -60;
+   pos Y a -60;   
+   pos Y c -100;
+   pos Y e -100;
+   pos Y g -100;
+   pos Y i -100;
+   pos Y j -100;
+   pos Y m -100;
+   pos Y n -100;
+   pos Y o -100;
+   pos Y r -100;
+   pos Y s -100;
+   pos Y t -100;
+   pos Y u -100;
+   pos Y v -100;
+   pos Y w -100;
+   pos Y x -100;
+   pos Y y -100;
+   pos Y z -100;
+   pos Y O -50;
+   pos Y A -150;
+   pos V A -140;
+} kern;
 
 
 

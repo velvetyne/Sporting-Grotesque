@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="1">
-  <advance width="329"/>
+  <advance width="310"/>
   <unicode hex="00CE"/>
   <outline>
-    <contour>
-      <point x="101" y="777" type="line"/>
-      <point x="101" y="0" type="line"/>
-      <point x="228" y="0" type="line"/>
-      <point x="228" y="777" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="1011" type="line"/>
-      <point x="-47" y="913" type="line"/>
-      <point x="-20" y="843" type="line"/>
-      <point x="158" y="913" type="line"/>
-      <point x="336" y="843" type="line"/>
-      <point x="363" y="913" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="circumflex.case" xOffset="-436" yOffset="222"/>
   </outline>
 </glyph>
