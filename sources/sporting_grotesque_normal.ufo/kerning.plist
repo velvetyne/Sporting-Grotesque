@@ -5,181 +5,130 @@
 	<key>A</key>
 	<dict>
 		<key>T</key>
-		<integer>-100</integer>
+		<integer>-150</integer>
 		<key>V</key>
-		<integer>-72</integer>
+		<integer>-150</integer>
 		<key>W</key>
-		<integer>-72</integer>
+		<integer>-100</integer>
+		<key>Y</key>
+		<integer>-150</integer>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key>O</key>
+		<integer>-50</integer>
 	</dict>
 	<key>O</key>
 	<dict>
 		<key>T</key>
-		<integer>-72</integer>
+		<integer>-70</integer>
+		<key>V</key>
+		<integer>-70</integer>
+		<key>W</key>
+		<integer>-50</integer>
+		<key>X</key>
+		<integer>-70</integer>
 		<key>Y</key>
-		<integer>-72</integer>
+		<integer>-120</integer>
+	</dict>
+	<key>P</key>
+	<dict>
+		<key>A</key>
+		<integer>-120</integer>
+		<key>X</key>
+		<integer>-50</integer>
+	</dict>
+	<key>R</key>
+	<dict>
+		<key>O</key>
+		<integer>-20</integer>
+		<key>V</key>
+		<integer>-70</integer>
 	</dict>
 	<key>T</key>
 	<dict>
 		<key>A</key>
-		<integer>-72</integer>
+		<integer>-150</integer>
 		<key>O</key>
-		<integer>-72</integer>
-		<key>a</key>
-		<integer>-145</integer>
-		<key>c</key>
-		<integer>-145</integer>
-		<key>e</key>
-		<integer>-145</integer>
-		<key>g</key>
-		<integer>-145</integer>
-		<key>j</key>
-		<integer>-145</integer>
-		<key>m</key>
-		<integer>-145</integer>
+		<integer>-70</integer>
 		<key>n</key>
-		<integer>-145</integer>
-		<key>p</key>
-		<integer>-145</integer>
-		<key>q</key>
-		<integer>-145</integer>
-		<key>r</key>
-		<integer>-145</integer>
-		<key>s</key>
-		<integer>-145</integer>
-		<key>u</key>
-		<integer>-145</integer>
-		<key>v</key>
-		<integer>-145</integer>
-		<key>w</key>
-		<integer>-145</integer>
-		<key>x</key>
-		<integer>-145</integer>
-		<key>y</key>
-		<integer>-145</integer>
-		<key>z</key>
-		<integer>-145</integer>
+		<integer>-120</integer>
+		<key>o</key>
+		<integer>-120</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>A</key>
-		<integer>-72</integer>
-		<key>a</key>
-		<integer>-72</integer>
-		<key>c</key>
-		<integer>-72</integer>
-		<key>e</key>
-		<integer>-72</integer>
-		<key>g</key>
-		<integer>-72</integer>
-		<key>j</key>
-		<integer>-72</integer>
-		<key>m</key>
-		<integer>-72</integer>
+		<integer>-150</integer>
+		<key>O</key>
+		<integer>-70</integer>
 		<key>n</key>
-		<integer>-72</integer>
-		<key>p</key>
-		<integer>-72</integer>
-		<key>q</key>
-		<integer>-72</integer>
-		<key>r</key>
-		<integer>-72</integer>
-		<key>s</key>
-		<integer>-72</integer>
-		<key>u</key>
-		<integer>-72</integer>
-		<key>w</key>
-		<integer>-72</integer>
-		<key>x</key>
-		<integer>-72</integer>
-		<key>z</key>
-		<integer>-72</integer>
+		<integer>-50</integer>
+		<key>o</key>
+		<integer>-80</integer>
 	</dict>
 	<key>W</key>
 	<dict>
 		<key>A</key>
-		<integer>-72</integer>
-		<key>a</key>
-		<integer>-72</integer>
-		<key>c</key>
-		<integer>-72</integer>
-		<key>e</key>
-		<integer>-72</integer>
-		<key>g</key>
-		<integer>-72</integer>
-		<key>j</key>
-		<integer>-72</integer>
-		<key>m</key>
-		<integer>-72</integer>
+		<integer>-100</integer>
+		<key>O</key>
+		<integer>-50</integer>
 		<key>n</key>
-		<integer>-72</integer>
-		<key>q</key>
-		<integer>-72</integer>
-		<key>r</key>
-		<integer>-72</integer>
-		<key>s</key>
-		<integer>-72</integer>
-		<key>u</key>
-		<integer>-72</integer>
-		<key>z</key>
-		<integer>-72</integer>
+		<integer>-20</integer>
+		<key>o</key>
+		<integer>-50</integer>
+	</dict>
+	<key>X</key>
+	<dict>
+		<key>O</key>
+		<integer>-70</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
+		<key>A</key>
+		<integer>-150</integer>
 		<key>O</key>
-		<integer>-72</integer>
-		<key>a</key>
-		<integer>-145</integer>
-		<key>c</key>
-		<integer>-72</integer>
-		<key>e</key>
-		<integer>-145</integer>
-		<key>g</key>
-		<integer>-72</integer>
-		<key>i</key>
-		<integer>-72</integer>
-		<key>j</key>
-		<integer>-72</integer>
-		<key>m</key>
-		<integer>-72</integer>
+		<integer>-120</integer>
 		<key>n</key>
-		<integer>-72</integer>
-		<key>p</key>
-		<integer>-72</integer>
-		<key>q</key>
-		<integer>-72</integer>
-		<key>r</key>
-		<integer>-72</integer>
-		<key>s</key>
-		<integer>-72</integer>
-		<key>t</key>
-		<integer>-72</integer>
-		<key>u</key>
-		<integer>-72</integer>
-		<key>v</key>
-		<integer>-72</integer>
-		<key>w</key>
-		<integer>-72</integer>
-		<key>x</key>
-		<integer>-72</integer>
-		<key>y</key>
-		<integer>-72</integer>
-		<key>z</key>
-		<integer>-72</integer>
+		<integer>-90</integer>
+		<key>o</key>
+		<integer>-140</integer>
 	</dict>
 	<key>f</key>
 	<dict>
-		<key>a</key>
-		<integer>-29</integer>
-		<key>c</key>
-		<integer>-29</integer>
-		<key>e</key>
-		<integer>-29</integer>
-		<key>g</key>
-		<integer>-29</integer>
-		<key>q</key>
-		<integer>-29</integer>
-		<key>s</key>
-		<integer>-29</integer>
+		<key>n</key>
+		<integer>-60</integer>
+		<key>o</key>
+		<integer>-70</integer>
+	</dict>
+	<key>f_f</key>
+	<dict>
+		<key>n</key>
+		<integer>-60</integer>
+		<key>o</key>
+		<integer>-70</integer>
+	</dict>
+	<key>n</key>
+	<dict>
+		<key>T</key>
+		<integer>-120</integer>
+		<key>V</key>
+		<integer>-50</integer>
+		<key>W</key>
+		<integer>-20</integer>
+		<key>Y</key>
+		<integer>-90</integer>
+	</dict>
+	<key>o</key>
+	<dict>
+		<key>T</key>
+		<integer>-120</integer>
+		<key>V</key>
+		<integer>-80</integer>
+		<key>W</key>
+		<integer>-50</integer>
+		<key>Y</key>
+		<integer>-140</integer>
 	</dict>
 </dict>
 </plist>

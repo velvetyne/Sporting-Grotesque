@@ -51,6 +51,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 feature liga {
   sub f i by f_i ;
   sub f l by f_l ;
@@ -150,6 +161,17 @@ feature kern {
    pos Y A -150;
    pos V A -140;
 } kern;
+
+
+
+
+
+
+
+
+
+
+
 
 
 

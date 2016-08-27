@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE.smcp" format="1">
-  <advance width="1239"/>
+  <advance width="880"/>
   <outline>
     <contour>
-      <point x="439" y="287" type="line"/>
-      <point x="564" y="287" type="line"/>
-      <point x="564" y="0" type="line"/>
-      <point x="1170" y="0" type="line"/>
-      <point x="1170" y="136" type="line"/>
-      <point x="725" y="136" type="line"/>
-      <point x="725" y="287" type="line"/>
-      <point x="1099" y="287" type="line"/>
-      <point x="1099" y="421" type="line"/>
-      <point x="725" y="421" type="line"/>
-      <point x="725" y="555" type="line"/>
-      <point x="1146" y="555" type="line"/>
-      <point x="1146" y="692" type="line"/>
-      <point x="359" y="692" type="line"/>
-      <point x="40" y="0" type="line"/>
-      <point x="209" y="0" type="line"/>
-      <point x="448" y="555" type="line"/>
-      <point x="564" y="555" type="line"/>
-      <point x="564" y="421" type="line"/>
-      <point x="439" y="421" type="line"/>
+      <point x="829" y="568" type="line"/>
+      <point x="275" y="568" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="257" y="243" type="line"/>
+      <point x="441" y="243" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="851" y="80" type="line"/>
+      <point x="571" y="80" type="line"/>
+      <point x="571" y="243" type="line"/>
+      <point x="808" y="243" type="line"/>
+      <point x="808" y="323" type="line"/>
+      <point x="571" y="323" type="line"/>
+      <point x="571" y="489" type="line"/>
+      <point x="829" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="489" type="line"/>
+      <point x="441" y="489" type="line"/>
+      <point x="441" y="323" type="line"/>
+      <point x="294" y="323" type="line"/>
     </contour>
   </outline>
 </glyph>

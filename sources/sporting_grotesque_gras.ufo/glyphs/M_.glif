@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1104"/>
+  <advance width="1312"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="1021" y="0" type="line"/>
-      <point x="1021" y="777" type="line"/>
-      <point x="848" y="777" type="line"/>
-      <point x="575" y="144" type="line"/>
-      <point x="527" y="144" type="line"/>
-      <point x="255" y="777" type="line"/>
-      <point x="83" y="777" type="line"/>
-      <point x="83" y="0" type="line"/>
-      <point x="251" y="0" type="line"/>
-      <point x="251" y="426" type="line"/>
-      <point x="434" y="0" type="line"/>
-      <point x="668" y="0" type="line"/>
-      <point x="854" y="430" type="line"/>
-      <point x="854" y="0" type="line"/>
+      <point x="656" y="170" type="line"/>
+      <point x="397" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="668" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="743" y="0" type="line"/>
+      <point x="1044" y="668" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="1222" y="0" type="line"/>
+      <point x="1222" y="777" type="line"/>
+      <point x="915" y="777" type="line"/>
     </contour>
   </outline>
 </glyph>

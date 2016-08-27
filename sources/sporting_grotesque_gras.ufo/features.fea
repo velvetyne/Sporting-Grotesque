@@ -1,5 +1,3 @@
-@smcp_from = [a      ae      aacute      acircumflex      adieresis      agrave      aring      atilde      b      c      ccedilla      d      e      eacute      ecircumflex      edieresis      egrave      f      g      h      i      iacute      icircumflex      idieresis      igrave      j      k      l      m      n      ntilde      o      oe      oacute      ocircumflex      odieresis      ograve      oslash      p      q      r      s      t      u      uacute      ucircumflex      udieresis      ugrave      v      w      x      y      yacute      ydieresis      z     ];
-@smcp_to   = [A.smcp AE.smcp Aacute.smcp Acircumflex.smcp Adieresis.smcp Agrave.smcp Aring.smcp Atilde.smcp B.smcp C.smcp Ccedilla.smcp D.smcp E.smcp Eacute.smcp Ecircumflex.smcp Edieresis.smcp Egrave.smcp F.smcp G.smcp H.smcp I.smcp Iacute.smcp Icircumflex.smcp Idieresis.smcp Igrave.smcp J.smcp K.smcp L.smcp M.smcp N.smcp Ntilde.smcp O.smcp OE.smcp Oacute.smcp Ocircumflex.smcp Odieresis.smcp Ograve.smcp Oslash.smcp P.smcp Q.smcp R.smcp S.smcp T.smcp U.smcp Uacute.smcp Ucircumflex.smcp Udieresis.smcp Ugrave.smcp V.smcp W.smcp X.smcp Y.smcp Yacute.smcp Ydieresis.smcp Z.smcp];
 @fig_default    = [zero            one            two            three            four            five            six            seven            eight            nine            ];
 @fig.align_prop = [zero            one            two            three            four            five            six            seven            eight            nine            ]; ;
 @fig.susp_prop  = [zero.susp_prop  one.susp_prop  two.susp_prop  three.susp_prop  four.susp_prop  five.susp_prop  six.susp_prop  seven.susp_prop  eight.susp_prop  nine.susp_prop  ];
@@ -9,36 +7,17 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+feature liga {
+  sub f i by f_i ;
+  sub f l by f_l ;
+  sub f f by f_f ; 
+} liga;
 feature titl {
   sub O by O.alt ;
  	sub Q by Q.alt ;
  	sub B by B.alt ;
  	sub S by S.alt ;
 } titl;
-feature smcp {
-  lookup smcp_all {
-    sub @smcp_from by @smcp_to;
-    sub dotlessi by I.smcp;
-  } smcp_all;
-} smcp;
 feature lnum { # chiffres alignés
     sub @fig.susp_prop by @fig.align_prop ;
 } lnum;
@@ -47,102 +26,50 @@ feature onum { # chiffres elzéviriens
     sub @fig.align_prop by @fig.susp_prop ;
 } onum;
 feature kern {
-   pos e w -10;
-   pos e y -20;
-   pos e v -50;
-   pos f g -80;
-   pos f o -100;
-   pos f q -29;
-   pos f s -29;
-   pos f u -50;
-   pos f e -100;
-   pos f c -100;
-   pos y e -40;
-   pos v e -50;
-   pos A T -72;
-   pos A V -72;
-   pos A W -72;
-   pos A S -50;
-   pos A C -50;
-   pos O T -72;
-   pos O Y -50;
-   pos C A -50;
-   pos P A -50;
-   pos T a -145;
-   pos T c -145;
-   pos T d -145;
-   pos T e -145;
-   pos T g -145;
-   pos T j -145;
-   pos T m -145;
-   pos T n -145;
-   pos T o -145;
-   pos T p -145;
-   pos T q -145;
-   pos T r -145;
-   pos T s -145;
-   pos T u -145;
-   pos T v -145;
-   pos T w -145;
-   pos T x -145;
-   pos T y -145;
-   pos T z -145;
-   pos T A -200;
-   pos V a -72;
-   pos V c -72;
-   pos V d -72;
-   pos V e -72;
-   pos V g -72;
-   pos V j -72;
-   pos V m -72;
-   pos V n -72;
-   pos V o -72;
-   pos V p -72;
-   pos V q -72;
-   pos V r -72;
-   pos V s -72;
-   pos V u -72;
-   pos V w -72;
-   pos V x -72;
-   pos V z -72;
-   pos V O -100;
-   pos W a -72;
-   pos W c -72;
-   pos W d -72;
-   pos W e -72;
-   pos W g -72;
-   pos W j -72;
-   pos W m -72;
-   pos W n -72;
-   pos W o -72;
-   pos W q -72;
-   pos W r -72;
-   pos W s -72;
-   pos W u -72;
-   pos W z -72;
-   pos seven four -100;
-   pos S T -100;
-   pos S Y -100;
-   pos Y a -145;
-   pos Y c -72;
-   pos Y d -72;
-   pos Y e -145;
-   pos Y g -72;
-   pos Y i -72;
-   pos Y j -72;
-   pos Y m -72;
-   pos Y n -72;
-   pos Y o -200;
-   pos Y p -72;
-   pos Y q -72;
-   pos Y r -72;
-   pos Y s -72;
-   pos Y t -72;
-   pos Y u -72;
-   pos Y v -72;
-   pos Y w -72;
-   pos Y x -72;
-   pos Y y -72;
-   pos Y z -72;
-   pos Y O -50;
+   pos P X -50;
+   pos R V -70;
+   enum pos @_kern1 T -120;
+   enum pos @_kern1 V -80;
+   enum pos @_kern1 Y -140;
+   enum pos @_kern1 W -50;
+   enum pos @_kern2 T -120;
+   enum pos @_kern2 V -50;
+   enum pos @_kern2 Y -90;
+   enum pos @_kern2 W -20;
+   enum pos @_kern3 T -70;
+   enum pos @_kern3 V -70;
+   enum pos @_kern3 Y -120;
+   enum pos @_kern3 W -50;
+   enum pos @_kern3 X -70;
+   enum pos @_kern4 V -150;
+   enum pos @_kern4 W -100;
+   enum pos @_kern4 Y -150;
+   enum pos @_kern4 T -150;
+   subtable;
+   enum pos f @_kern1 -70;
+   enum pos f @_kern2 -60;
+   enum pos P @_kern4 -120;
+   enum pos R @_kern3 -20;
+   enum pos T @_kern1 -120;
+   enum pos T @_kern2 -120;
+   enum pos T @_kern3 -70;
+   enum pos T @_kern4 -150;
+   enum pos K @_kern3 -50;
+   enum pos V @_kern1 -80;
+   enum pos V @_kern2 -50;
+   enum pos V @_kern3 -70;
+   enum pos V @_kern4 -150;
+   enum pos W @_kern1 -50;
+   enum pos W @_kern2 -20;
+   enum pos W @_kern3 -50;
+   enum pos W @_kern4 -100;
+   enum pos X @_kern3 -70;
+   enum pos Y @_kern1 -140;
+   enum pos Y @_kern2 -90;
+   enum pos Y @_kern3 -120;
+   enum pos Y @_kern4 -150;
+   subtable;
 } kern;
+
+
+
