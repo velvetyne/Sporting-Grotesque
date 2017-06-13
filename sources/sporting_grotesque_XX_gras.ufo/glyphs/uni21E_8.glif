@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni21E8" format="1">
+  <advance width="1084"/>
+  <unicode hex="21E8"/>
+  <note>
+    uni21E8
+  </note>
+  <outline>
+    <contour>
+      <point x="629" y="126" type="line"/>
+      <point x="629" y="7" type="line"/>
+      <point x="673" y="7" type="line"/>
+      <point x="1047" y="321" type="line"/>
+      <point x="1047" y="353" type="line"/>
+      <point x="673" y="666" type="line"/>
+      <point x="629" y="666" type="line"/>
+      <point x="629" y="548" type="line"/>
+      <point x="33" y="548" type="line"/>
+      <point x="33" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="500" type="line"/>
+      <point x="673" y="603" type="line"/>
+      <point x="996" y="337" type="line"/>
+      <point x="673" y="71" type="line"/>
+      <point x="673" y="173" type="line"/>
+      <point x="76" y="173" type="line"/>
+      <point x="76" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

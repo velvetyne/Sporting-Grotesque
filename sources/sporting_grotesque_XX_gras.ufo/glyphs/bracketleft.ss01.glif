@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.ss01" format="1">
+  <advance width="316"/>
+  <note>
+    bracketleft
+  </note>
+  <outline>
+    <contour>
+      <point x="301" y="-49" type="line"/>
+      <point x="193" y="-49" type="line"/>
+      <point x="193" y="810" type="line"/>
+      <point x="301" y="810" type="line"/>
+      <point x="301" y="938" type="line"/>
+      <point x="61" y="938" type="line"/>
+      <point x="61" y="-186" type="line"/>
+      <point x="301" y="-186" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 07:05:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="567"/>
+  <unicode hex="201D"/>
+  <note>
+    quotedblright
+  </note>
+  <outline>
+    <contour>
+      <point x="310" y="776" type="line"/>
+      <point x="310" y="603" type="line"/>
+      <point x="430" y="603" type="line"/>
+      <point x="430" y="521"/>
+      <point x="372" y="509"/>
+      <point x="313" y="509" type="curve"/>
+      <point x="313" y="449" type="line"/>
+      <point x="419" y="449"/>
+      <point x="511" y="472"/>
+      <point x="511" y="631" type="curve" smooth="yes"/>
+      <point x="511" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="776" type="line"/>
+      <point x="60" y="603" type="line"/>
+      <point x="180" y="603" type="line"/>
+      <point x="180" y="521"/>
+      <point x="122" y="509"/>
+      <point x="63" y="509" type="curve"/>
+      <point x="63" y="449" type="line"/>
+      <point x="169" y="449"/>
+      <point x="261" y="472"/>
+      <point x="261" y="631" type="curve" smooth="yes"/>
+      <point x="261" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

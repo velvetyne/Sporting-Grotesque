@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="834"/>
+  <unicode hex="00CA"/>
+  <note>
+    Ecircumflex
+  </note>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="760" y="144" type="line"/>
+      <point x="251" y="144" type="line"/>
+      <point x="251" y="328" type="line"/>
+      <point x="679" y="328" type="line"/>
+      <point x="679" y="471" type="line"/>
+      <point x="251" y="471" type="line"/>
+      <point x="251" y="633" type="line"/>
+      <point x="733" y="633" type="line"/>
+      <point x="733" y="777" type="line"/>
+      <point x="78" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="883" type="line"/>
+      <point x="193" y="830" type="line"/>
+      <point x="417" y="910" type="line"/>
+      <point x="641" y="830" type="line"/>
+      <point x="656" y="883" type="line"/>
+      <point x="417" y="1029" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-24 09:46:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

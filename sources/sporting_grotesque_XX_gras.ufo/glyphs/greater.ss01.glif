@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.ss01" format="1">
+  <advance width="389"/>
+  <note>
+    greater
+  </note>
+  <outline>
+    <contour>
+      <point x="57" y="522" type="line"/>
+      <point x="57" y="474" type="line"/>
+      <point x="312" y="277" type="line"/>
+      <point x="61" y="87" type="line"/>
+      <point x="61" y="38" type="line"/>
+      <point x="373" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 16:45:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

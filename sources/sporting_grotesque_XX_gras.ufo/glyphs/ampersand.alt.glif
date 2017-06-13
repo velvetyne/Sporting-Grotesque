@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand.alt" format="1">
+  <advance width="914"/>
+  <note>
+    ampersand
+  </note>
+  <outline>
+    <contour>
+      <point x="744" y="665" type="line"/>
+      <point x="744" y="777" type="line"/>
+      <point x="77" y="777" type="line"/>
+      <point x="77" y="647" type="line"/>
+      <point x="77" y="647"/>
+      <point x="203" y="561"/>
+      <point x="330" y="398" type="curve"/>
+      <point x="37" y="127" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="560" y="-64"/>
+      <point x="575" y="-133"/>
+      <point x="583" y="-207" type="curve"/>
+      <point x="760" y="-207" type="line"/>
+      <point x="748" y="-133"/>
+      <point x="729" y="-64"/>
+      <point x="707" y="0" type="curve"/>
+      <point x="861" y="0" type="line"/>
+      <point x="861" y="144" type="line"/>
+      <point x="647" y="144" type="line"/>
+      <point x="600" y="240"/>
+      <point x="545" y="322"/>
+      <point x="491" y="391" type="curve"/>
+    </contour>
+    <contour>
+      <point x="584" y="633" type="line"/>
+      <point x="416" y="478" type="line"/>
+      <point x="321" y="580"/>
+      <point x="244" y="633"/>
+      <point x="244" y="633" type="curve"/>
+    </contour>
+    <contour>
+      <point x="263" y="144" type="line"/>
+      <point x="402" y="295" type="line"/>
+      <point x="432" y="249"/>
+      <point x="460" y="198"/>
+      <point x="485" y="144" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-24 19:56:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

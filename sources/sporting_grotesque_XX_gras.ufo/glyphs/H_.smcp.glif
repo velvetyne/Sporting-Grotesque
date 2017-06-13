@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.smcp" format="1">
+  <advance width="902"/>
+  <note>
+    H.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="662" y="0" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="824" y="693" type="line"/>
+      <point x="662" y="693" type="line"/>
+      <point x="662" y="421" type="line"/>
+      <point x="239" y="421" type="line"/>
+      <point x="239" y="693" type="line"/>
+      <point x="78" y="693" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="288" type="line"/>
+      <point x="662" y="288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.susp_prop" format="1">
+  <advance width="744"/>
+  <note>
+    one.susp_prop
+  </note>
+  <outline>
+    <contour>
+      <point x="39" y="144" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="708" y="144" type="line"/>
+      <point x="456" y="144" type="line"/>
+      <point x="456" y="578" type="line"/>
+      <point x="126" y="472" type="line"/>
+      <point x="126" y="388" type="line"/>
+      <point x="294" y="388" type="line"/>
+      <point x="294" y="144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

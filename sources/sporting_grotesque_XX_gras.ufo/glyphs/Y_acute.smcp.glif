@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute.smcp" format="1">
+  <advance width="883"/>
+  <note>
+    Yacute.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="846" y="693" type="line"/>
+      <point x="631" y="693" type="line"/>
+      <point x="442" y="402" type="line"/>
+      <point x="251" y="693" type="line"/>
+      <point x="37" y="693" type="line"/>
+      <point x="361" y="291" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="523" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="992" type="line"/>
+      <point x="293" y="753" type="line"/>
+      <point x="324" y="721" type="line"/>
+      <point x="595" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

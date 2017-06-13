@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex.smcp" format="1">
+  <advance width="758"/>
+  <note>
+    Ecircumflex.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="684" y="0" type="line"/>
+      <point x="684" y="136" type="line"/>
+      <point x="239" y="136" type="line"/>
+      <point x="239" y="287" type="line"/>
+      <point x="613" y="287" type="line"/>
+      <point x="613" y="421" type="line"/>
+      <point x="239" y="421" type="line"/>
+      <point x="239" y="555" type="line"/>
+      <point x="660" y="555" type="line"/>
+      <point x="660" y="693" type="line"/>
+      <point x="78" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="993" type="line"/>
+      <point x="115" y="763" type="line"/>
+      <point x="145" y="731" type="line"/>
+      <point x="371" y="851" type="line"/>
+      <point x="596" y="731" type="line"/>
+      <point x="627" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

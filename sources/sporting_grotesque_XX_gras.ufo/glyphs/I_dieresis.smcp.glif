@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis.smcp" format="1">
+  <advance width="316"/>
+  <note>
+    Idieresis.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="78" y="693" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="-44" y="936" type="line"/>
+      <point x="-44" y="820" type="line"/>
+      <point x="112" y="820" type="line"/>
+      <point x="112" y="936" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="936" type="line"/>
+      <point x="209" y="820" type="line"/>
+      <point x="365" y="820" type="line"/>
+      <point x="365" y="936" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

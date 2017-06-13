@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.ss01" format="1">
+  <advance width="389"/>
+  <note>
+    less
+  </note>
+  <outline>
+    <contour>
+      <point x="16" y="277" type="line"/>
+      <point x="328" y="38" type="line"/>
+      <point x="328" y="87" type="line"/>
+      <point x="76" y="277" type="line"/>
+      <point x="332" y="474" type="line"/>
+      <point x="332" y="522" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 16:45:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

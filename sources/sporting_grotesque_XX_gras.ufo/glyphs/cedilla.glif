@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="317"/>
+  <unicode hex="00B8"/>
+  <note>
+    cedilla
+  </note>
+  <outline>
+    <contour>
+      <point x="101" y="-243" type="line"/>
+      <point x="292" y="-78" type="line"/>
+      <point x="266" y="-32" type="line"/>
+      <point x="28" y="-124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

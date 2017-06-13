@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.smcp" format="1">
+  <advance width="1229"/>
+  <note>
+    AE.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="434" y="287" type="line"/>
+      <point x="559" y="287" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="1165" y="0" type="line"/>
+      <point x="1165" y="136" type="line"/>
+      <point x="720" y="136" type="line"/>
+      <point x="720" y="287" type="line"/>
+      <point x="1094" y="287" type="line"/>
+      <point x="1094" y="421" type="line"/>
+      <point x="720" y="421" type="line"/>
+      <point x="720" y="555" type="line"/>
+      <point x="1141" y="555" type="line"/>
+      <point x="1141" y="692" type="line"/>
+      <point x="354" y="692" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="443" y="555" type="line"/>
+      <point x="559" y="555" type="line"/>
+      <point x="559" y="421" type="line"/>
+      <point x="434" y="421" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

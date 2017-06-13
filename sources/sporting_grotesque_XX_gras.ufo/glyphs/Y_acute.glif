@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="873"/>
+  <unicode hex="00DD"/>
+  <note>
+    Yacute
+  </note>
+  <outline>
+    <contour>
+      <point x="848" y="777" type="line"/>
+      <point x="622" y="777" type="line"/>
+      <point x="437" y="470" type="line"/>
+      <point x="250" y="777" type="line"/>
+      <point x="25" y="777" type="line"/>
+      <point x="350" y="329" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="1041" type="line"/>
+      <point x="240" y="893" type="line"/>
+      <point x="255" y="840" type="line"/>
+      <point x="662" y="912" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-24 09:49:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

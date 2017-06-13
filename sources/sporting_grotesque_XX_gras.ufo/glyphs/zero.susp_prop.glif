@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.susp_prop" format="1">
+  <advance width="755"/>
+  <note>
+    zero.susp_prop
+  </note>
+  <outline>
+    <contour>
+      <point x="48" y="108"/>
+      <point x="183" y="-14"/>
+      <point x="378" y="-14" type="curve" smooth="yes"/>
+      <point x="573" y="-14"/>
+      <point x="707" y="108"/>
+      <point x="707" y="282" type="curve" smooth="yes"/>
+      <point x="707" y="454"/>
+      <point x="573" y="578"/>
+      <point x="378" y="578" type="curve" smooth="yes"/>
+      <point x="173" y="578"/>
+      <point x="48" y="454"/>
+      <point x="48" y="282" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="218" y="384"/>
+      <point x="283" y="444"/>
+      <point x="378" y="444" type="curve" smooth="yes"/>
+      <point x="472" y="444"/>
+      <point x="538" y="384"/>
+      <point x="538" y="282" type="curve" smooth="yes"/>
+      <point x="538" y="180"/>
+      <point x="472" y="117"/>
+      <point x="378" y="117" type="curve" smooth="yes"/>
+      <point x="283" y="117"/>
+      <point x="218" y="180"/>
+      <point x="218" y="282" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

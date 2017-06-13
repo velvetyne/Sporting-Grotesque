@@ -1,0 +1,129 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature c2sc;
+feature case;
+feature salt;
+feature ss01;
+} aalt;
+
+feature c2sc {
+# automatic
+sub A by A.smcp;
+sub Aacute by Aacute.smcp;
+sub Acircumflex by Acircumflex.smcp;
+sub Adieresis by Adieresis.smcp;
+sub Agrave by Agrave.smcp;
+sub Aring by Aring.smcp;
+sub Atilde by Atilde.smcp;
+sub AE by AE.smcp;
+sub B by B.smcp;
+sub C by C.smcp;
+sub Ccedilla by Ccedilla.smcp;
+sub D by D.smcp;
+sub E by E.smcp;
+sub Eacute by Eacute.smcp;
+sub Ecircumflex by Ecircumflex.smcp;
+sub Edieresis by Edieresis.smcp;
+sub Egrave by Egrave.smcp;
+sub F by F.smcp;
+sub G by G.smcp;
+sub H by H.smcp;
+sub I by I.smcp;
+sub Iacute by Iacute.smcp;
+sub Icircumflex by Icircumflex.smcp;
+sub Idieresis by Idieresis.smcp;
+sub Igrave by Igrave.smcp;
+sub J by J.smcp;
+sub K by K.smcp;
+sub L by L.smcp;
+sub M by M.smcp;
+sub N by N.smcp;
+sub Ntilde by Ntilde.smcp;
+sub O by O.smcp;
+sub Oacute by Oacute.smcp;
+sub Ocircumflex by Ocircumflex.smcp;
+sub Odieresis by Odieresis.smcp;
+sub Ograve by Ograve.smcp;
+sub Oslash by Oslash.smcp;
+sub OE by OE.smcp;
+sub P by P.smcp;
+sub Q by Q.smcp;
+sub R by R.smcp;
+sub S by S.smcp;
+sub T by T.smcp;
+sub U by U.smcp;
+sub Uacute by Uacute.smcp;
+sub Ucircumflex by Ucircumflex.smcp;
+sub Udieresis by Udieresis.smcp;
+sub Ugrave by Ugrave.smcp;
+sub V by V.smcp;
+sub W by W.smcp;
+sub X by X.smcp;
+sub Y by Y.smcp;
+sub Yacute by Yacute.smcp;
+sub Ydieresis by Ydieresis.smcp;
+sub Z by Z.smcp;
+} c2sc;
+
+feature case {
+# automatic
+sub acute by acute.case;
+sub circumflex by circumflex.case;
+sub dieresis by dieresis.case;
+sub grave by grave.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+} case;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+sub T T by T_T.liga;
+sub f t by f_t.liga;
+} liga;
+
+feature salt {
+# automatic
+sub K by K.ss01;
+sub O by O.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub Udieresis by Udieresis.ss01;
+sub periodcentered by periodcentered.ss01;
+sub braceleft by braceleft.ss01;
+sub braceright by braceright.ss01;
+sub bracketleft by bracketleft.ss01;
+sub bracketright by bracketright.ss01;
+sub parenleft by parenleft.ss01;
+sub parenright by parenright.ss01;
+sub greater by greater.ss01;
+sub less by less.ss01;
+sub northEastArrow by northEastArrow.ss01;
+} salt;
+
+feature ss01 {
+# automatic
+sub K by K.ss01;
+sub O by O.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub Udieresis by Udieresis.ss01;
+sub periodcentered by periodcentered.ss01;
+sub braceleft by braceleft.ss01;
+sub braceright by braceright.ss01;
+sub bracketleft by bracketleft.ss01;
+sub bracketright by bracketright.ss01;
+sub parenleft by parenleft.ss01;
+sub parenright by parenright.ss01;
+sub greater by greater.ss01;
+sub less by less.ss01;
+sub northEastArrow by northEastArrow.ss01;
+} ss01;
+

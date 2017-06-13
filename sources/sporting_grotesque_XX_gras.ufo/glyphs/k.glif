@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="692"/>
+  <unicode hex="006B"/>
+  <note>
+    k
+  </note>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="192" type="line"/>
+      <point x="283" y="233" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="381" y="316" type="line"/>
+      <point x="633" y="555" type="line"/>
+      <point x="428" y="555" type="line"/>
+      <point x="241" y="355" type="line"/>
+      <point x="241" y="777" type="line"/>
+      <point x="241" y="777"/>
+      <point x="169" y="760"/>
+      <point x="78" y="760" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-24 09:52:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

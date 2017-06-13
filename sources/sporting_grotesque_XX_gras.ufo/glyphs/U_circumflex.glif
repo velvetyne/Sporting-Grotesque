@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="1">
+  <advance width="911"/>
+  <unicode hex="00DB"/>
+  <note>
+    Ucircumflex
+  </note>
+  <outline>
+    <contour>
+      <point x="217" y="883" type="line"/>
+      <point x="232" y="830" type="line"/>
+      <point x="456" y="910" type="line"/>
+      <point x="680" y="830" type="line"/>
+      <point x="695" y="883" type="line"/>
+      <point x="456" y="1029" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="777" type="line"/>
+      <point x="73" y="400" type="line" smooth="yes"/>
+      <point x="73" y="163"/>
+      <point x="161" y="-14"/>
+      <point x="456" y="-14" type="curve" smooth="yes"/>
+      <point x="751" y="-14"/>
+      <point x="839" y="163"/>
+      <point x="839" y="400" type="curve" smooth="yes"/>
+      <point x="839" y="777" type="line"/>
+      <point x="665" y="777" type="line"/>
+      <point x="665" y="400" type="line" smooth="yes"/>
+      <point x="665" y="272"/>
+      <point x="617" y="144"/>
+      <point x="456" y="144" type="curve" smooth="yes"/>
+      <point x="295" y="144"/>
+      <point x="247" y="272"/>
+      <point x="247" y="400" type="curve" smooth="yes"/>
+      <point x="247" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-24 11:21:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

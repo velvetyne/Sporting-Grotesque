@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="911"/>
+  <unicode hex="0055"/>
+  <note>
+    U
+  </note>
+  <outline>
+    <contour>
+      <point x="73" y="777" type="line"/>
+      <point x="73" y="400" type="line" smooth="yes"/>
+      <point x="73" y="163"/>
+      <point x="161" y="-14"/>
+      <point x="456" y="-14" type="curve" smooth="yes"/>
+      <point x="751" y="-14"/>
+      <point x="839" y="163"/>
+      <point x="839" y="400" type="curve" smooth="yes"/>
+      <point x="839" y="777" type="line"/>
+      <point x="665" y="777" type="line"/>
+      <point x="665" y="400" type="line" smooth="yes"/>
+      <point x="665" y="272"/>
+      <point x="617" y="144"/>
+      <point x="456" y="144" type="curve" smooth="yes"/>
+      <point x="295" y="144"/>
+      <point x="247" y="272"/>
+      <point x="247" y="400" type="curve" smooth="yes"/>
+      <point x="247" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-17 19:40:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

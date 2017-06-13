@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northEastArrow.ss01" format="1">
+  <advance width="834"/>
+  <outline>
+    <contour>
+      <point x="637" y="215" type="line"/>
+      <point x="804" y="213" type="line"/>
+      <point x="803" y="777" type="line"/>
+      <point x="654" y="774" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="609" type="line"/>
+      <point x="803" y="625" type="line"/>
+      <point x="804" y="775" type="line"/>
+      <point x="242" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="0" type="line"/>
+      <point x="790" y="665" type="line"/>
+      <point x="693" y="762" type="line"/>
+      <point x="30" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 07:10:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

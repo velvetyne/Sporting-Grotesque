@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.smcp" format="1">
+  <advance width="832"/>
+  <note>
+    K.smcp
+  </note>
+  <outline>
+    <contour>
+      <point x="544" y="693" type="line"/>
+      <point x="242" y="390" type="line"/>
+      <point x="242" y="693" type="line"/>
+      <point x="78" y="693" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="213" type="line"/>
+      <point x="266" y="238"/>
+      <point x="289" y="258"/>
+      <point x="314" y="282" type="curve"/>
+      <point x="575" y="0" type="line"/>
+      <point x="774" y="0" type="line"/>
+      <point x="424" y="378" type="line"/>
+      <point x="740" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="303"/>
+  <unicode hex="02DA"/>
+  <note>
+    ring
+  </note>
+  <outline>
+    <contour>
+      <point x="47" y="660"/>
+      <point x="93" y="614"/>
+      <point x="151" y="614" type="curve" smooth="yes"/>
+      <point x="209" y="614"/>
+      <point x="257" y="660"/>
+      <point x="257" y="718" type="curve" smooth="yes"/>
+      <point x="257" y="776"/>
+      <point x="209" y="824"/>
+      <point x="151" y="824" type="curve" smooth="yes"/>
+      <point x="93" y="824"/>
+      <point x="47" y="776"/>
+      <point x="47" y="718" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="86" y="753"/>
+      <point x="115" y="783"/>
+      <point x="151" y="783" type="curve" smooth="yes"/>
+      <point x="187" y="783"/>
+      <point x="216" y="753"/>
+      <point x="216" y="718" type="curve" smooth="yes"/>
+      <point x="216" y="684"/>
+      <point x="187" y="653"/>
+      <point x="151" y="653" type="curve" smooth="yes"/>
+      <point x="115" y="653"/>
+      <point x="86" y="682"/>
+      <point x="86" y="718" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-23 20:50:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>
