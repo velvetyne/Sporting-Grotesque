@@ -67,9 +67,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/jjjlllnnn/ownCloud/vtf/60 fonts/Sporting-Grotesque/sporting_grotesque_XX_gras.ttf</string>
+	<string>/Users/jjjlllnnn/ownCloud/vtf/60 fonts/Sporting-Grotesque/sporting_grotesque_XX_gras.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

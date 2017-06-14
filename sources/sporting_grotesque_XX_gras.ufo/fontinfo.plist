@@ -7,7 +7,8 @@
 	<key>capHeight</key>
 	<integer>777</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2015 by Lucas LE BIHAN. All rights reserved.</string>
+	<string>Copyright (c) 2015 by Lucas LE BIHAN. All rights reserved.
+This is a fork by schoener.</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
@@ -22,6 +23,8 @@
 	<string>Lucas LE BIHAN</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>www.lucaslebihan.fr</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Lucas LE BIHAN</string>
 	<key>openTypeNameManufacturerURL</key>
@@ -80,6 +83,9 @@
 	<string>bold</string>
 	<key>styleName</key>
 	<string>Gras</string>
+	<key>trademark</key>
+	<string>Copyright (c) 2015 by Lucas LE BIHAN. All rights reserved.
+This is a fork by schoener.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
