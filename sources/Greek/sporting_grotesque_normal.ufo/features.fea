@@ -1,0 +1,189 @@
+@smcp_from = [a      ae      aacute      acircumflex      adieresis      agrave      aring      atilde      b      c      ccedilla      d      e      eacute      ecircumflex      edieresis      egrave      f      g      h      i      iacute      icircumflex      idieresis      igrave      j      k      l      m      n      ntilde      o      oe      oacute      ocircumflex      odieresis      ograve      oslash      p      q      r      s      t      u      uacute      ucircumflex      udieresis      ugrave      v      w      x      y      yacute      ydieresis      z     ];
+@smcp_to   = [A.smcp AE.smcp Aacute.smcp Acircumflex.smcp Adieresis.smcp Agrave.smcp Aring.smcp Atilde.smcp B.smcp C.smcp Ccedilla.smcp D.smcp E.smcp Eacute.smcp Ecircumflex.smcp Edieresis.smcp Egrave.smcp F.smcp G.smcp H.smcp I.smcp Iacute.smcp Icircumflex.smcp Idieresis.smcp Igrave.smcp J.smcp K.smcp L.smcp M.smcp N.smcp Ntilde.smcp O.smcp OE.smcp Oacute.smcp Ocircumflex.smcp Odieresis.smcp Ograve.smcp Oslash.smcp P.smcp Q.smcp R.smcp S.smcp T.smcp U.smcp Uacute.smcp Ucircumflex.smcp Udieresis.smcp Ugrave.smcp V.smcp W.smcp X.smcp Y.smcp Yacute.smcp Ydieresis.smcp Z.smcp];
+@fig_default    = [zero            one            two            three            four            five            six            seven            eight            nine            ];
+@fig.align_prop = [zero            one            two            three            four            five            six            seven            eight            nine            ]; ;
+@fig.susp_prop  = [zero.susp_prop  one.susp_prop  two.susp_prop  three.susp_prop  four.susp_prop  five.susp_prop  six.susp_prop  seven.susp_prop  eight.susp_prop  nine.susp_prop  ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature liga {
+  sub f i by f_i ;
+  sub f l by f_l ;
+  sub f f by f_f ; 
+} liga;
+
+feature titl {
+  sub O by O.alt ;
+ 	sub Q by Q.alt ;
+ 	sub B by B.alt ;
+ 	sub S by S.alt ;
+} titl;
+
+feature smcp {
+  lookup smcp_all {
+    sub @smcp_from by @smcp_to;
+    sub dotlessi by I.smcp;
+  } smcp_all;
+} smcp;
+
+feature lnum { # chiffres alignés
+    sub @fig.susp_prop by @fig.align_prop ;
+} lnum;
+ 
+
+feature onum { # chiffres elzéviriens
+    sub @fig.align_prop by @fig.susp_prop ;
+} onum;
+
+feature kern {
+   pos A T -100;
+   pos A W -60;
+   pos W A -60;  
+   pos A V -140;
+   pos A C -50;
+   pos O T -50;
+   pos O Y -41;
+   pos O V -60;
+   pos P A -70;
+   pos D W -50;
+   pos T c -100;
+   pos T e -100;
+   pos T g -100;
+   pos T m -100;
+   pos T n -100;
+   pos T o -100;
+   pos T r -100;
+   pos T s -100;
+   pos T u -100;
+   pos T v -100;
+   pos T w -100;
+   pos T x -100;
+   pos T y -100;
+   pos T z -100;
+   pos T A -60;
+   pos T O -60;
+   pos T a -100;
+   pos V a -60;  
+   pos V c -60;
+   pos V e -60;
+   pos V g -60;
+   pos V m -60;
+   pos V n -60;
+   pos V o -60;
+   pos V r -60;
+   pos V s -60;
+   pos V u -60;
+   pos V z -60;
+   pos V O -60;  
+   pos W a -60;  
+   pos W c -60;
+   pos W e -60;
+   pos W g -60;
+   pos W m -60;
+   pos W n -60;
+   pos W o -60;
+   pos W r -60;
+   pos W s -60;
+   pos W u -60;
+   pos W z -60;
+   pos W O -60;
+   pos S Y -60;
+   pos Y a -60;   
+   pos Y c -100;
+   pos Y e -100;
+   pos Y g -100;
+   pos Y i -100;
+   pos Y j -100;
+   pos Y m -100;
+   pos Y n -100;
+   pos Y o -100;
+   pos Y r -100;
+   pos Y s -100;
+   pos Y t -100;
+   pos Y u -100;
+   pos Y v -100;
+   pos Y w -100;
+   pos Y x -100;
+   pos Y y -100;
+   pos Y z -100;
+   pos Y O -50;
+   pos Y A -150;
+   pos V A -140;
+} kern;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

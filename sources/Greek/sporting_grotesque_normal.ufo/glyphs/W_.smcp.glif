@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.smcp" format="1">
+  <advance width="952"/>
+  <outline>
+    <contour>
+      <point x="942" y="569" type="line"/>
+      <point x="815" y="569" type="line"/>
+      <point x="675" y="110" type="line"/>
+      <point x="541" y="569" type="line"/>
+      <point x="410" y="569" type="line"/>
+      <point x="275" y="110" type="line"/>
+      <point x="136" y="569" type="line"/>
+      <point x="10" y="569" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="476" y="411" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.609</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
