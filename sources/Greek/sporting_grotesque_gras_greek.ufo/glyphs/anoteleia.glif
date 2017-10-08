@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="1">
+  <advance width="298"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="60" y="405" type="line"/>
+      <point x="238" y="405" type="line"/>
+      <point x="238" y="555" type="line"/>
+      <point x="60" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="1">
+  <advance width="843"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="60" y="682" type="line"/>
+      <point x="158" y="692" type="line"/>
+      <point x="598" y="692" type="line"/>
+      <point x="20" y="95" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="843" y="0" type="line"/>
+      <point x="843" y="85" type="line"/>
+      <point x="155" y="85" type="line"/>
+      <point x="733" y="682" type="line"/>
+      <point x="733" y="777" type="line"/>
+      <point x="60" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="682" type="line"/>
+      <point x="507" y="288"/>
+      <point x="702" y="-238"/>
+      <point x="702" y="-238" type="curve"/>
+      <point x="834" y="-198" type="line"/>
+      <point x="834" y="-198"/>
+      <point x="576" y="348"/>
+      <point x="169" y="692" type="curve"/>
+      <point x="60" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>0.609</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
