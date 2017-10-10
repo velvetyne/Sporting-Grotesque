@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="345"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="555" type="line"/>
+      <point x="90" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="852"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="361" y="377" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="377" type="line"/>
+      <point x="842" y="777" type="line"/>
+      <point x="692" y="777" type="line"/>
+      <point x="426" y="474" type="line"/>
+      <point x="160" y="777" type="line"/>
+      <point x="10" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.656</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

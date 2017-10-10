@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="1">
+  <advance width="745"/>
+  <unicode hex="0395"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="705" y="85" type="line"/>
+      <point x="220" y="85" type="line"/>
+      <point x="220" y="347" type="line"/>
+      <point x="648" y="347" type="line"/>
+      <point x="648" y="432" type="line"/>
+      <point x="220" y="432" type="line"/>
+      <point x="220" y="692" type="line"/>
+      <point x="676" y="692" type="line"/>
+      <point x="676" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.656</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

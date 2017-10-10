@@ -1,0 +1,41 @@
+languagesystem latn dflt;
+languagesystem grek dflt;
+
+@fig_default    = [zero            one            two            three            four            five            six            seven            eight            nine            ];
+@fig.align_prop = [zero            one            two            three            four            five            six            seven            eight            nine            ]; ;
+@fig.susp_prop  = [zero.susp_prop  one.susp_prop  two.susp_prop  three.susp_prop  four.susp_prop  five.susp_prop  six.susp_prop  seven.susp_prop  eight.susp_prop  nine.susp_prop  ];
+
+feature liga {
+  sub f i by f_i ;
+  sub f l by f_l ;
+  sub f f by f_f ; 
+} liga;
+feature onum { # chiffres elzviriens
+    sub @fig.align_prop by @fig.susp_prop ;
+} onum;
+
+feature lnum { # chiffres aligns
+    sub @fig.susp_prop by @fig.align_prop ;
+} lnum;
+ feature titl {
+  sub O by O.alt ;
+ 	sub Q by Q.alt ;
+ 	sub B by B.alt ;
+ 	sub S by S.alt ;
+} titl;
+
+feature salt {
+    sub O by O.alt ;
+    sub Q by Q.alt ;
+    sub B by B.alt ;
+    sub S by S.alt ;
+} salt;
+
+feature ss01 {
+  sub alpha by alpha.ss01;
+  sub alphatonos by alphatonos.ss01;
+  sub Pi by Pi.ss01;
+} ss01;
+
+
+

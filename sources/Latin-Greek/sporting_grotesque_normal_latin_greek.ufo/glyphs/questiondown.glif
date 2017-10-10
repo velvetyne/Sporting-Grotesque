@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="760"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="304" y="75" type="line"/>
+      <point x="434" y="75" type="line"/>
+      <point x="434" y="220" type="line"/>
+      <point x="304" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="-346" type="curve"/>
+      <point x="700" y="-164"/>
+      <point x="424" y="-165"/>
+      <point x="424" y="-20" type="curve"/>
+      <point x="314" y="-20" type="line"/>
+      <point x="314" y="-210"/>
+      <point x="563" y="-167"/>
+      <point x="563" y="-335" type="curve"/>
+      <point x="563" y="-403"/>
+      <point x="510" y="-472"/>
+      <point x="397" y="-472" type="curve"/>
+      <point x="165" y="-472"/>
+      <point x="194" y="-239"/>
+      <point x="194" y="-239" type="curve"/>
+      <point x="60" y="-279" type="line"/>
+      <point x="60" y="-279"/>
+      <point x="75" y="-571"/>
+      <point x="397" y="-571" type="curve"/>
+      <point x="631" y="-571"/>
+      <point x="700" y="-438"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

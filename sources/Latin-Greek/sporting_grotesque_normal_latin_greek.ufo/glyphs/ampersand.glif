@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="1">
+  <advance width="843"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="60" y="682" type="line"/>
+      <point x="159" y="594"/>
+      <point x="246" y="500"/>
+      <point x="322" y="407" type="curve"/>
+      <point x="20" y="95" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="666" y="-141"/>
+      <point x="702" y="-238"/>
+      <point x="702" y="-238" type="curve"/>
+      <point x="834" y="-198" type="line"/>
+      <point x="834" y="-198"/>
+      <point x="796" y="-118"/>
+      <point x="727" y="0" type="curve"/>
+      <point x="843" y="0" type="line"/>
+      <point x="843" y="85" type="line"/>
+      <point x="675" y="85" type="line"/>
+      <point x="616" y="179"/>
+      <point x="542" y="287"/>
+      <point x="455" y="395" type="curve"/>
+      <point x="733" y="682" type="line"/>
+      <point x="733" y="777" type="line"/>
+      <point x="60" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="692" type="curve"/>
+      <point x="598" y="692" type="line"/>
+      <point x="388" y="475" type="line"/>
+      <point x="321" y="551"/>
+      <point x="248" y="625"/>
+    </contour>
+    <contour>
+      <point x="155" y="85" type="line"/>
+      <point x="386" y="323" type="line"/>
+      <point x="447" y="240"/>
+      <point x="499" y="159"/>
+      <point x="542" y="85" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
