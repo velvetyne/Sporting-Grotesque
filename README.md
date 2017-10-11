@@ -1,6 +1,6 @@
 # Sporting Grotesque
 
-A grotesque typeface by [Lucas Le Bihan](http://lucaslebihan.fr/)
+A grotesque typeface by [Lucas Le Bihan](http://lucaslebihan.fr/).
 Greek by [George Triantafyllakos](http://backpacker.gr)
 
 ![Specimen](documentation/specimen.png)
