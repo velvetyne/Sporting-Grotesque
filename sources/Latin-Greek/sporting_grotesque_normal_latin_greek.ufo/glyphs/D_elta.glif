@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="974"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="594" y="777" type="line"/>
+      <point x="380" y="777" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="954" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="692" type="line"/>
+      <point x="505" y="692" type="line"/>
+      <point x="777" y="85" type="line"/>
+      <point x="196" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.656</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -24,17 +24,20 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
-      IDxoc3RlbSBwb3M9Ii00OCIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVtIHBvcz0i
-      Nzg3IiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0ZW0gcG9zPSI0MCIgd2lkdGg9IjEw
-      MyIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii00OCIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNzg3IiB3aWR0aD0iLTIwIiAvPgogICAgICA8dnN0ZW0g
+        cG9zPSI0MCIgd2lkdGg9IjEwMyIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+        bnRTZXRMaXN0Pgo=
       </data>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>
         <real>0.609</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

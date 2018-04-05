@@ -18,11 +18,14 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
-      IDxoc3RlbSBwb3M9Ii0xNzkiIHdpZHRoPSI5NCIgLz4KICAgICAgPGhzdGVtIHBvcz0i
-      NzI1IiB3aWR0aD0iOTMiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjI3MyIgd2lkdGg9Ii0x
-      MDIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0xNzkiIHdpZHRoPSI5NCIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNzI1IiB3aWR0aD0iOTMiIC8+CiAgICAgIDx2c3RlbSBw
+        b3M9IjI3MyIgd2lkdGg9Ii0xMDIiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9o
+        aW50U2V0TGlzdD4K
       </data>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
     </dict>
   </lib>
 </glyph>

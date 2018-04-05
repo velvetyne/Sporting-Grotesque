@@ -41,16 +41,19 @@
     <dict>
       <key>com.adobe.type.autohint</key>
       <data>
-      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
-      IDxoc3RlbSBwb3M9Ii0xMDAiIHdpZHRoPSIzNSIgLz4KICAgICAgPGhzdGVtIHBvcz0i
-      NzQ3IiB3aWR0aD0iMzUiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+        ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+
+        CiAgICAgIDxoc3RlbSBwb3M9Ii0xMDAiIHdpZHRoPSIzNSIgLz4KICAgICAg
+        PGhzdGVtIHBvcz0iNzQ3IiB3aWR0aD0iMzUiIC8+CiAgICA8L2hpbnRzZXQ+
+        CiAgPC9oaW50U2V0TGlzdD4K
       </data>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>
         <real>0.609</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

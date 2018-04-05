@@ -14,39 +14,41 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>299.0</real>
+          <integer>299</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>256.0</real>
+          <integer>256</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>
         <real>0.609</real>
-        <real>1.0</real>
-        <real>1.0</real>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

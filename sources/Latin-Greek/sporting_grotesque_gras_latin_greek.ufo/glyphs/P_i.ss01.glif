@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi.ss01" format="1">
+  <advance width="1006"/>
+  <outline>
+    <contour>
+      <point x="738" y="0" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="916" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="667" type="line"/>
+      <point x="738" y="667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

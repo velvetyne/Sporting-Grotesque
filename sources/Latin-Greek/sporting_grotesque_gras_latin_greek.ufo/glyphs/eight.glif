@@ -60,67 +60,69 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>753.0</real>
+          <integer>753</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>399.0</real>
+          <integer>399</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>562.0</real>
+          <integer>562</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>227.0</real>
+          <integer>227</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>440.0</real>
+          <integer>440</integer>
           <key>y</key>
-          <real>0.0</real>
+          <integer>0</integer>
         </dict>
       </array>
     </dict>

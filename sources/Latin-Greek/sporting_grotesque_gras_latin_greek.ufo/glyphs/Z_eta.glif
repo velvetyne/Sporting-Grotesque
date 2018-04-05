@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="1">
+  <advance width="818"/>
+  <unicode hex="0396"/>
+  <outline>
+    <contour>
+      <point x="798" y="110" type="line"/>
+      <point x="235" y="110" type="line"/>
+      <point x="798" y="658" type="line"/>
+      <point x="798" y="777" type="line"/>
+      <point x="20" y="777" type="line"/>
+      <point x="20" y="668" type="line"/>
+      <point x="583" y="668" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="798" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

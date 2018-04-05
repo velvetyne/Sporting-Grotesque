@@ -7,237 +7,253 @@
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>A.smcp</key>
-	<string>A__smcp.glif</string>
+	<string>A_.smcp.glif</string>
 	<key>AE</key>
 	<string>A_E_.glif</string>
 	<key>AE.smcp</key>
-	<string>A_E__smcp.glif</string>
+	<string>A_E_.smcp.glif</string>
 	<key>Aacute</key>
 	<string>A_acute.glif</string>
 	<key>Aacute.smcp</key>
-	<string>A_acute_smcp.glif</string>
+	<string>A_acute.smcp.glif</string>
 	<key>Acircumflex</key>
 	<string>A_circumflex.glif</string>
 	<key>Acircumflex.smcp</key>
-	<string>A_circumflex_smcp.glif</string>
+	<string>A_circumflex.smcp.glif</string>
 	<key>Adieresis</key>
 	<string>A_dieresis.glif</string>
 	<key>Adieresis.smcp</key>
-	<string>A_dieresis_smcp.glif</string>
+	<string>A_dieresis.smcp.glif</string>
 	<key>Agrave</key>
 	<string>A_grave.glif</string>
 	<key>Agrave.smcp</key>
-	<string>A_grave_smcp.glif</string>
+	<string>A_grave.smcp.glif</string>
+	<key>Aogonek</key>
+	<string>A_ogonek.glif</string>
 	<key>Aring</key>
 	<string>A_ring.glif</string>
 	<key>Aring.smcp</key>
-	<string>A_ring_smcp.glif</string>
+	<string>A_ring.smcp.glif</string>
 	<key>Atilde</key>
 	<string>A_tilde.glif</string>
 	<key>Atilde.smcp</key>
-	<string>A_tilde_smcp.glif</string>
+	<string>A_tilde.smcp.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>B.alt</key>
-	<string>B__alt.glif</string>
+	<string>B_.alt.glif</string>
 	<key>B.smcp</key>
-	<string>B__smcp.glif</string>
+	<string>B_.smcp.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
 	<key>C.smcp</key>
-	<string>C__smcp.glif</string>
+	<string>C_.smcp.glif</string>
 	<key>CR</key>
 	<string>C_R_.glif</string>
+	<key>Cacute</key>
+	<string>C_acute.glif</string>
 	<key>Ccedilla</key>
 	<string>C_cedilla.glif</string>
 	<key>Ccedilla.smcp</key>
-	<string>C_cedilla_smcp.glif</string>
+	<string>C_cedilla.smcp.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>D.smcp</key>
-	<string>D__smcp.glif</string>
+	<string>D_.smcp.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>E.smcp</key>
-	<string>E__smcp.glif</string>
+	<string>E_.smcp.glif</string>
 	<key>Eacute</key>
 	<string>E_acute.glif</string>
 	<key>Eacute.smcp</key>
-	<string>E_acute_smcp.glif</string>
+	<string>E_acute.smcp.glif</string>
 	<key>Ecircumflex</key>
 	<string>E_circumflex.glif</string>
 	<key>Ecircumflex.smcp</key>
-	<string>E_circumflex_smcp.glif</string>
+	<string>E_circumflex.smcp.glif</string>
 	<key>Edieresis</key>
 	<string>E_dieresis.glif</string>
 	<key>Edieresis.smcp</key>
-	<string>E_dieresis_smcp.glif</string>
+	<string>E_dieresis.smcp.glif</string>
 	<key>Egrave</key>
 	<string>E_grave.glif</string>
 	<key>Egrave.smcp</key>
-	<string>E_grave_smcp.glif</string>
+	<string>E_grave.smcp.glif</string>
+	<key>Eogonek</key>
+	<string>E_ogonek.glif</string>
 	<key>Euro</key>
 	<string>E_uro.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>F.smcp</key>
-	<string>F__smcp.glif</string>
+	<string>F_.smcp.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>G.smcp</key>
-	<string>G__smcp.glif</string>
+	<string>G_.smcp.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>H.smcp</key>
-	<string>H__smcp.glif</string>
+	<string>H_.smcp.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>I.smcp</key>
-	<string>I__smcp.glif</string>
+	<string>I_.smcp.glif</string>
 	<key>Iacute</key>
 	<string>I_acute.glif</string>
 	<key>Iacute.smcp</key>
-	<string>I_acute_smcp.glif</string>
+	<string>I_acute.smcp.glif</string>
 	<key>Icircumflex</key>
 	<string>I_circumflex.glif</string>
 	<key>Icircumflex.smcp</key>
-	<string>I_circumflex_smcp.glif</string>
+	<string>I_circumflex.smcp.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
 	<key>Idieresis.smcp</key>
-	<string>I_dieresis_smcp.glif</string>
+	<string>I_dieresis.smcp.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Igrave.smcp</key>
-	<string>I_grave_smcp.glif</string>
+	<string>I_grave.smcp.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J.smcp</key>
-	<string>J__smcp.glif</string>
+	<string>J_.smcp.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>K.smcp</key>
-	<string>K__smcp.glif</string>
+	<string>K_.smcp.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>L.smcp</key>
-	<string>L__smcp.glif</string>
+	<string>L_.smcp.glif</string>
+	<key>Lslash</key>
+	<string>L_slash.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>M.smcp</key>
-	<string>M__smcp.glif</string>
+	<string>M_.smcp.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
 	<key>N.smcp</key>
-	<string>N__smcp.glif</string>
+	<string>N_.smcp.glif</string>
 	<key>NULL</key>
 	<string>N_U_L_L_.glif</string>
+	<key>Nacute</key>
+	<string>N_acute.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>Ntilde.smcp</key>
-	<string>N_tilde_smcp.glif</string>
+	<string>N_tilde.smcp.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O.alt</key>
-	<string>O__alt.glif</string>
+	<string>O_.alt.glif</string>
 	<key>O.smcp</key>
-	<string>O__smcp.glif</string>
+	<string>O_.smcp.glif</string>
 	<key>OE</key>
 	<string>O_E_.glif</string>
 	<key>OE.smcp</key>
-	<string>O_E__smcp.glif</string>
+	<string>O_E_.smcp.glif</string>
 	<key>Oacute</key>
 	<string>O_acute.glif</string>
 	<key>Oacute.smcp</key>
-	<string>O_acute_smcp.glif</string>
+	<string>O_acute.smcp.glif</string>
 	<key>Ocircumflex</key>
 	<string>O_circumflex.glif</string>
 	<key>Ocircumflex.smcp</key>
-	<string>O_circumflex_smcp.glif</string>
+	<string>O_circumflex.smcp.glif</string>
 	<key>Odieresis</key>
 	<string>O_dieresis.glif</string>
 	<key>Odieresis.smcp</key>
-	<string>O_dieresis_smcp.glif</string>
+	<string>O_dieresis.smcp.glif</string>
 	<key>Ograve</key>
 	<string>O_grave.glif</string>
 	<key>Ograve.smcp</key>
-	<string>O_grave_smcp.glif</string>
+	<string>O_grave.smcp.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Oslash.smcp</key>
-	<string>O_slash_smcp.glif</string>
+	<string>O_slash.smcp.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>P.smcp</key>
-	<string>P__smcp.glif</string>
+	<string>P_.smcp.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>Q.alt</key>
-	<string>Q__alt.glif</string>
+	<string>Q_.alt.glif</string>
 	<key>Q.smcp</key>
-	<string>Q__smcp.glif</string>
+	<string>Q_.smcp.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.smcp</key>
-	<string>R__smcp.glif</string>
+	<string>R_.smcp.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>S.alt</key>
-	<string>S__alt.glif</string>
+	<string>S_.alt.glif</string>
 	<key>S.smcp</key>
-	<string>S__smcp.glif</string>
+	<string>S_.smcp.glif</string>
+	<key>Sacute</key>
+	<string>S_acute.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>T.smcp</key>
-	<string>T__smcp.glif</string>
+	<string>T_.smcp.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>U.smcp</key>
-	<string>U__smcp.glif</string>
+	<string>U_.smcp.glif</string>
 	<key>Uacute</key>
 	<string>U_acute.glif</string>
 	<key>Uacute.smcp</key>
-	<string>U_acute_smcp.glif</string>
+	<string>U_acute.smcp.glif</string>
 	<key>Ucircumflex</key>
 	<string>U_circumflex.glif</string>
 	<key>Ucircumflex.smcp</key>
-	<string>U_circumflex_smcp.glif</string>
+	<string>U_circumflex.smcp.glif</string>
 	<key>Udieresis</key>
 	<string>U_dieresis.glif</string>
 	<key>Udieresis.smcp</key>
-	<string>U_dieresis_smcp.glif</string>
+	<string>U_dieresis.smcp.glif</string>
 	<key>Ugrave</key>
 	<string>U_grave.glif</string>
 	<key>Ugrave.smcp</key>
-	<string>U_grave_smcp.glif</string>
+	<string>U_grave.smcp.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>V.smcp</key>
-	<string>V__smcp.glif</string>
+	<string>V_.smcp.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
 	<key>W.smcp</key>
-	<string>W__smcp.glif</string>
+	<string>W_.smcp.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.smcp</key>
-	<string>X__smcp.glif</string>
+	<string>X_.smcp.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
 	<key>Y.smcp</key>
-	<string>Y__smcp.glif</string>
+	<string>Y_.smcp.glif</string>
 	<key>Yacute</key>
 	<string>Y_acute.glif</string>
 	<key>Yacute.smcp</key>
-	<string>Y_acute_smcp.glif</string>
+	<string>Y_acute.smcp.glif</string>
 	<key>Ydieresis</key>
 	<string>Y_dieresis.glif</string>
 	<key>Ydieresis.smcp</key>
-	<string>Y_dieresis_smcp.glif</string>
+	<string>Y_dieresis.smcp.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
 	<key>Z.smcp</key>
-	<string>Z__smcp.glif</string>
+	<string>Z_.smcp.glif</string>
+	<key>Zacute</key>
+	<string>Z_acute.glif</string>
+	<key>Zdotaccent</key>
+	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>aacute</key>
@@ -247,7 +263,7 @@
 	<key>acute</key>
 	<string>acute.glif</string>
 	<key>acute.case</key>
-	<string>acute_case.glif</string>
+	<string>acute.case.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
 	<key>ae</key>
@@ -256,6 +272,8 @@
 	<string>agrave.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>aogonek</key>
+	<string>aogonek.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
 	<key>asterisk</key>
@@ -284,6 +302,8 @@
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>cacute</key>
+	<string>cacute.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
@@ -293,7 +313,7 @@
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflex.case</key>
-	<string>circumflex_case.glif</string>
+	<string>circumflex.case.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -311,7 +331,7 @@
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.case</key>
-	<string>dieresis_case.glif</string>
+	<string>dieresis.case.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
@@ -331,15 +351,17 @@
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>eight.alt</key>
-	<string>eight_alt.glif</string>
+	<string>eight.alt.glif</string>
 	<key>eight.susp_prop</key>
-	<string>eight_susp_prop.glif</string>
+	<string>eight.susp_prop.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>eogonek</key>
+	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>exclam</key>
@@ -357,15 +379,15 @@
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.alt</key>
-	<string>five_alt.glif</string>
+	<string>five.alt.glif</string>
 	<key>five.susp_prop</key>
-	<string>five_susp_prop.glif</string>
+	<string>five.susp_prop.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>four.alt</key>
-	<string>four_alt.glif</string>
+	<string>four.alt.glif</string>
 	<key>four.susp_prop</key>
-	<string>four_susp_prop.glif</string>
+	<string>four.susp_prop.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
 	<key>g</key>
@@ -375,7 +397,7 @@
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>grave.case</key>
-	<string>grave_case.glif</string>
+	<string>grave.case.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>guillemotleft</key>
@@ -408,6 +430,8 @@
 	<string>l.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
+	<key>lslash</key>
+	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>minus</key>
@@ -416,12 +440,14 @@
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>nacute</key>
+	<string>nacute.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.alt</key>
-	<string>nine_alt.glif</string>
+	<string>nine.alt.glif</string>
 	<key>nine.susp_prop</key>
-	<string>nine_susp_prop.glif</string>
+	<string>nine.susp_prop.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
@@ -441,9 +467,9 @@
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one.alt</key>
-	<string>one_alt.glif</string>
+	<string>one.alt.glif</string>
 	<key>one.susp_prop</key>
-	<string>one_susp_prop.glif</string>
+	<string>one.susp_prop.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
 	<key>onequarter</key>
@@ -499,9 +525,11 @@
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>ring.case</key>
-	<string>ring_case.glif</string>
+	<string>ring.case.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>sacute</key>
+	<string>sacute.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>semicolon</key>
@@ -509,15 +537,15 @@
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>seven.alt</key>
-	<string>seven_alt.glif</string>
+	<string>seven.alt.glif</string>
 	<key>seven.susp_prop</key>
-	<string>seven_susp_prop.glif</string>
+	<string>seven.susp_prop.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.alt</key>
-	<string>six_alt.glif</string>
+	<string>six.alt.glif</string>
 	<key>six.susp_prop</key>
-	<string>six_susp_prop.glif</string>
+	<string>six.susp_prop.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -529,21 +557,21 @@
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.alt</key>
-	<string>three_alt.glif</string>
+	<string>three.alt.glif</string>
 	<key>three.susp_prop</key>
-	<string>three_susp_prop.glif</string>
+	<string>three.susp_prop.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.case</key>
-	<string>tilde_case.glif</string>
+	<string>tilde.case.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.alt</key>
-	<string>two_alt.glif</string>
+	<string>two.alt.glif</string>
 	<key>two.susp_prop</key>
-	<string>two_susp_prop.glif</string>
+	<string>two.susp_prop.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -572,11 +600,15 @@
 	<string>yen.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>zacute</key>
+	<string>zacute.glif</string>
+	<key>zdotaccent</key>
+	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.alt</key>
-	<string>zero_alt.glif</string>
+	<string>zero.alt.glif</string>
 	<key>zero.susp_prop</key>
-	<string>zero_susp_prop.glif</string>
+	<string>zero.susp_prop.glif</string>
 </dict>
 </plist>

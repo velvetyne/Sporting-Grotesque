@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="1">
+  <advance width="1007"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="784" y="1019" type="line"/>
+      <point x="574" y="1019" type="line"/>
+      <point x="438" y="875" type="line"/>
+      <point x="555" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="917" y="0" type="line"/>
+      <point x="917" y="777" type="line"/>
+      <point x="739" y="777" type="line"/>
+      <point x="739" y="170" type="line"/>
+      <point x="333" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="607" type="line"/>
+      <point x="674" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:32:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

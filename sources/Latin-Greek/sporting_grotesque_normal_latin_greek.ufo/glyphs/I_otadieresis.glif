@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="1">
+  <advance width="310"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis.case" xOffset="-14" yOffset="222"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.656</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
