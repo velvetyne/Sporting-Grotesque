@@ -4,10 +4,19 @@
   <unicode hex="03AE"/>
   <outline>
     <component base="eta"/>
-    <component base="acute" xOffset="-228"/>
+    <component base="acute" xOffset="-198"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:26:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.656</real>
