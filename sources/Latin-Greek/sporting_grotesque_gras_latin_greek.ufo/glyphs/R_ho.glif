@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rho" format="1">
+  <advance width="862"/>
+  <unicode hex="03A1"/>
+  <outline>
+    <contour>
+      <point x="90" y="777" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="333" type="line"/>
+      <point x="456" y="333" type="line" smooth="yes"/>
+      <point x="722" y="333"/>
+      <point x="842" y="407"/>
+      <point x="842" y="555" type="curve" smooth="yes"/>
+      <point x="842" y="703"/>
+      <point x="722" y="777"/>
+      <point x="456" y="777" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="268" y="442" type="line"/>
+      <point x="268" y="668" type="line"/>
+      <point x="466" y="668" type="line" smooth="yes"/>
+      <point x="580" y="668"/>
+      <point x="657" y="635"/>
+      <point x="657" y="555" type="curve" smooth="yes"/>
+      <point x="657" y="475"/>
+      <point x="580" y="442"/>
+      <point x="466" y="442" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

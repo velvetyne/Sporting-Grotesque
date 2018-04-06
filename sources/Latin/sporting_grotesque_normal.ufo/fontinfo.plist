@@ -12,12 +12,12 @@
 	<integer>-223</integer>
 	<key>familyName</key>
 	<string>Sporting Grotesque</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Sporting Grotesque</string>
+	<key>openTypeHeadCreated</key>
+	<string>2018/04/05 17:21:26</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
@@ -104,6 +104,8 @@
 	<string>pyrs</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>500</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1062</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -111,7 +113,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.039600000000000003</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -119,12 +121,6 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptFontName</key>
 	<string>SportingGrotesque-Normal</string>
 	<key>postscriptForceBold</key>
@@ -137,7 +133,7 @@
 	<array>
 	</array>
 	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
+	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>105</integer>
@@ -156,8 +152,6 @@
 	<integer>72</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Medium</string>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>

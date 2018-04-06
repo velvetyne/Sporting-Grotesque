@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="1">
+  <advance width="974"/>
+  <unicode hex="0391"/>
+  <outline>
+    <contour>
+      <point x="815" y="0" type="line"/>
+      <point x="954" y="0" type="line"/>
+      <point x="594" y="777" type="line"/>
+      <point x="380" y="777" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="269" y="247" type="line"/>
+      <point x="704" y="247" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="692" type="line"/>
+      <point x="505" y="692" type="line"/>
+      <point x="666" y="332" type="line"/>
+      <point x="308" y="332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.656</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

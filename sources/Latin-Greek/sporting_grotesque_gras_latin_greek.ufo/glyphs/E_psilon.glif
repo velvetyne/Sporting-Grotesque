@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="1">
+  <advance width="815"/>
+  <unicode hex="0395"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="110" type="line"/>
+      <point x="268" y="110" type="line"/>
+      <point x="268" y="333" type="line"/>
+      <point x="716" y="333" type="line"/>
+      <point x="716" y="442" type="line"/>
+      <point x="268" y="442" type="line"/>
+      <point x="268" y="668" type="line"/>
+      <point x="745" y="668" type="line"/>
+      <point x="745" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

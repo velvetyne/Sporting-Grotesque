@@ -77,31 +77,33 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>307.0</real>
+          <integer>307</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>637.0</real>
+          <integer>637</integer>
           <key>y</key>
-          <real>0.0</real>
+          <integer>0</integer>
         </dict>
       </array>
     </dict>

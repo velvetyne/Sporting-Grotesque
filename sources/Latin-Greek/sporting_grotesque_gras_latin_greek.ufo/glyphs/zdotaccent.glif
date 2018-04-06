@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="705"/>
+  <unicode hex="017C"/>
+  <outline>
+    <contour>
+      <point x="291" y="812" type="line"/>
+      <point x="291" y="662" type="line"/>
+      <point x="429" y="662" type="line"/>
+      <point x="429" y="812" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="107" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="97" type="line"/>
+      <point x="268" y="97" type="line"/>
+      <point x="645" y="448" type="line"/>
+      <point x="645" y="555" type="line"/>
+      <point x="60" y="555" type="line"/>
+      <point x="60" y="458" type="line"/>
+      <point x="443" y="458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:33:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>z</string>
+    </dict>
+  </lib>
+</glyph>

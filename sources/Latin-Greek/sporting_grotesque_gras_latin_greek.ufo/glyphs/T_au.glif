@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="1">
+  <advance width="882"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <contour>
+      <point x="10" y="668" type="line"/>
+      <point x="352" y="668" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="668" type="line"/>
+      <point x="872" y="668" type="line"/>
+      <point x="872" y="777" type="line"/>
+      <point x="10" y="777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

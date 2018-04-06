@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1169"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="584" y="0" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="1129" y="85" type="line"/>
+      <point x="714" y="85" type="line"/>
+      <point x="714" y="347" type="line"/>
+      <point x="1072" y="347" type="line"/>
+      <point x="1072" y="432" type="line"/>
+      <point x="714" y="432" type="line"/>
+      <point x="714" y="692" type="line"/>
+      <point x="1100" y="692" type="line"/>
+      <point x="1100" y="777" type="line"/>
+      <point x="370" y="777" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="304" y="347" type="line"/>
+      <point x="584" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="692" type="line"/>
+      <point x="584" y="692" type="line"/>
+      <point x="584" y="432" type="line"/>
+      <point x="343" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:53 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>432</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

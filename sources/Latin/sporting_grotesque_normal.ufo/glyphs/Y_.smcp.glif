@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.smcp" format="1">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="271" y="270" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="270" type="line"/>
+      <point x="650" y="569" type="line"/>
+      <point x="507" y="569" type="line"/>
+      <point x="330" y="353" type="line"/>
+      <point x="153" y="569" type="line"/>
+      <point x="10" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="625" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:21:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

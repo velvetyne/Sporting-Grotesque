@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kappa" format="1">
+  <advance width="912"/>
+  <unicode hex="039A"/>
+  <outline>
+    <contour>
+      <point x="730" y="0" type="line"/>
+      <point x="952" y="0" type="line"/>
+      <point x="514" y="442" type="line"/>
+      <point x="922" y="777" type="line"/>
+      <point x="700" y="777" type="line"/>
+      <point x="268" y="411" type="line"/>
+      <point x="268" y="777" type="line"/>
+      <point x="90" y="777" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="268" y="238" type="line"/>
+      <point x="399" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:27:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

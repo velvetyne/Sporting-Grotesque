@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="1">
+  <advance width="871"/>
+  <unicode hex="015A"/>
+  <outline>
+    <contour>
+      <point x="734" y="1019" type="line"/>
+      <point x="524" y="1019" type="line"/>
+      <point x="388" y="875" type="line"/>
+      <point x="505" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="487" type="line" smooth="yes"/>
+      <point x="298" y="503"/>
+      <point x="242" y="528"/>
+      <point x="242" y="578" type="curve" smooth="yes"/>
+      <point x="242" y="629"/>
+      <point x="304" y="668"/>
+      <point x="410" y="668" type="curve" smooth="yes"/>
+      <point x="633" y="668"/>
+      <point x="627" y="512"/>
+      <point x="627" y="512" type="curve"/>
+      <point x="810" y="562" type="line"/>
+      <point x="810" y="562"/>
+      <point x="793" y="791"/>
+      <point x="417" y="791" type="curve" smooth="yes"/>
+      <point x="174" y="791"/>
+      <point x="58" y="680"/>
+      <point x="58" y="559" type="curve" smooth="yes"/>
+      <point x="58" y="461"/>
+      <point x="142" y="384"/>
+      <point x="292" y="352" type="curve" smooth="yes"/>
+      <point x="490" y="310" type="line" smooth="yes"/>
+      <point x="597" y="287"/>
+      <point x="658" y="274"/>
+      <point x="658" y="203" type="curve" smooth="yes"/>
+      <point x="658" y="144"/>
+      <point x="586" y="110"/>
+      <point x="468" y="110" type="curve" smooth="yes"/>
+      <point x="190" y="110"/>
+      <point x="213" y="300"/>
+      <point x="213" y="300" type="curve"/>
+      <point x="30" y="253" type="line"/>
+      <point x="36" y="141"/>
+      <point x="139" y="-13"/>
+      <point x="471" y="-13" type="curve" smooth="yes"/>
+      <point x="680" y="-13"/>
+      <point x="841" y="66"/>
+      <point x="841" y="217" type="curve" smooth="yes"/>
+      <point x="841" y="321"/>
+      <point x="783" y="406"/>
+      <point x="593" y="444" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-04-05 15:32:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>
