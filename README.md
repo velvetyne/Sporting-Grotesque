@@ -1,7 +1,8 @@
 # Sporting Grotesque
 
 A grotesque typeface by [Lucas Le Bihan](http://lucaslebihan.fr/).
-Greek by [George Triantafyllakos](http://backpacker.gr)
+Greek by [George Triantafyllakos](http://backpacker.gr).
+Polish diacritics added by [Maciej Połczyński](http://maciej.polczynski.com/).
 
 ![Specimen](documentation/specimen.png)
 

@@ -1,8 +1,0 @@
-@_kern1 = [ o' a c e aacute agrave acircumflex atilde adieresis aring ae ccedilla eacute egrave ecircumflex edieresis oacute ograve ocircumflex oslash odieresis oe ];
-
-@_kern2 = [ n' z r u p q s g m w x y v ntilde uacute ugrave ucircumflex udieresis yacute ydieresis one.susp_prop five.susp_prop two.susp_prop four.susp_prop zero.susp_prop three.susp_prop nine.susp_prop ];
-
-@_kern3 = [ O' C Ccedilla Oacute Ograve Ocircumflex Oslash Odieresis zero three six eight nine O.alt Q Q.alt ];
-
-@_kern4 = [ A' Aacute Agrave Adieresis Acircumflex Aring Atilde ];
-
