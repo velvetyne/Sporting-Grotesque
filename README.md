@@ -1,8 +1,12 @@
 # Sporting Grotesque
 
 A grotesque typeface by [Lucas Le Bihan](http://lucaslebihan.fr/).
+
 Greek by [George Triantafyllakos](http://backpacker.gr).
+
 Polish diacritics added by [Maciej Połczyński](http://maciej.polczynski.com/).
+
+Sporting Grotesque is a typeface released by [Velvetyne Type Foundry](http://velvetyne.fr).
 
 ![Specimen](documentation/specimen.png)
 
